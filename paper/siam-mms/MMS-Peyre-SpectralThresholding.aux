@@ -1,0 +1,290 @@
+\relax 
+\citation{mallat-grouplets}
+\citation{buades-nl-means}
+\citation{szlam-regularization}
+\@writefile{lof}{\contentsline {figure}{\numberline {0.1}{\ignorespaces \textit  { Representations of the discrete manifold $\mathcal  {M}$ for the three computation modes for a regular image $f$. The color at each point $p \in \mathcal  {M}$ is set according to $\mathaccentV {tilde}07Ef(p)$. Left: local manifold $x \DOTSB \mapstochar \rightarrow f(x)$, center: semi-local manifold $x \DOTSB \mapstochar \rightarrow (x,\lambda f(x))$, right: non-local manifold $x \DOTSB \mapstochar \rightarrow p_x(f)$. The non-local manifold is a subset of $\mathbb  {R}^{\tau ^2}$ where $\tau $ is the width of the patches $p_x(f)$, but it can be approximately embedded in $\mathbb  {R}^3$ by a dimension reduction using principal components analysis.}}}{1}}
+\newlabel{fig-manifold-lifting}{{0.1}{1}}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Local, Semi-local and Non-local Manifolds in Images Processing}{1}}
+\citation{mallat-book}
+\citation{yaroslavsky-book}
+\citation{tomasi-bilateral}
+\citation{smith-susan}
+\citation{comaniciu-mean-shift}
+\citation{spira-short-time-beltrami}
+\citation{buades-nl-means}
+\newlabel{sec-highdim-lifting}{{1.1}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}High Dimensional Lifting}{2}}
+\newlabel{eq-def-lifted}{{1.1}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}From Local to Non-Local Processing}{2}}
+\newlabel{eq-manifold-local}{{1.2}{2}}
+\newlabel{eq-manifold-semi-local}{{1.3}{2}}
+\newlabel{eq-lifting-non-local}{{1.4}{2}}
+\newlabel{eq-defn-patch}{{1.5}{2}}
+\citation{lee-non-linear-stats}
+\citation{carlsson-topological}
+\citation{carlsson-local-behavior}
+\citation{peyre-manifold-models}
+\citation{baker-parametric}
+\citation{huggins-local-pca}
+\citation{coifman-geometric-diffusion}
+\citation{szlam-regularization}
+\citation{donoho-isomap}
+\citation{wakin-multiscale-structure}
+\citation{aharon-lips}
+\citation{peyre-manifold}
+\citation{wang-appearance}
+\citation{matusik-texture-design}
+\citation{efros-nonparam-sampling}
+\newlabel{eq-manifold-non-local}{{1.6}{3}}
+\newlabel{subsect-manifold-structure}{{1.3}{3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3}The manifold structure of patches}{3}}
+\@writefile{toc}{\contentsline {paragraph}{Patches in natural images}{3}}
+\citation{donoho-wedglets}
+\@writefile{toc}{\contentsline {paragraph}{The example of smooth images}{4}}
+\@writefile{toc}{\contentsline {paragraph}{The example of cartoon images}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.1}{\ignorespaces \textit  { Left: an example of cartoon image. Right: parameterization of the manifold of edge patches and some examples. }}}{4}}
+\newlabel{fig-edge-patches-samples}{{1.1}{4}}
+\citation{chung-spectral-graph}
+\citation{polthier-computational}
+\citation{xu-discrete-laplacian}
+\citation{carlsson-topological}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.2}{\ignorespaces \textit  { Left: a cartoon image. Right: 3D representation of the set $\mathcal  {M}$ as samples of the edge manifold $\mathaccentV {tilde}07E\mathcal  {M}$ (depicted in 3D as a cylinder). The two curves on the manifold corresponds to patches extracted along the two lines in the image. }}}{5}}
+\newlabel{fig-edge-manifold}{{1.2}{5}}
+\newlabel{subsec-diffusion-laplacians}{{2}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Diffusions and Laplacians on a Manifold}{5}}
+\newlabel{subsect-discrete-diffusion}{{2.1}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Discrete Diffusion Operators on Graphs}{5}}
+\@writefile{toc}{\contentsline {paragraph}{Diffusion kernel}{5}}
+\newlabel{eq-defn-continuous-kernel}{{2.1}{5}}
+\newlabel{eq-defn-continuous-normalization}{{2.2}{5}}
+\newlabel{eq-defn-diffusion}{{2.3}{5}}
+\@writefile{toc}{\contentsline {paragraph}{Laplacian operators}{5}}
+\newlabel{eq-defn-laplacian}{{2.4}{5}}
+\citation{gilboa-nonlocal-segmentation}
+\citation{gilboa-nonlocal-functionals}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.1}{\ignorespaces \textit  { Left: original image $f$. Right: heat diffusions with an increasing time for: (a) local embedding $x \DOTSB \mapstochar \rightarrow x$, (b) semi-local embedding $x \DOTSB \mapstochar \rightarrow (x,\lambda f(x))$, (c) non-local embedding $x \DOTSB \mapstochar \rightarrow p_x(f)$. }}}{6}}
+\newlabel{fig-diffusion-graph}{{2.1}{6}}
+\@writefile{toc}{\contentsline {paragraph}{Gradient operators}{6}}
+\newlabel{eq-dfn-gradient}{{2.5}{6}}
+\newlabel{eq-dfn-grad-vector}{{2.6}{6}}
+\newlabel{eq-dfn-gradient-unnormalized}{{2.7}{6}}
+\newlabel{eq-decomposition-laplacian}{{2.8}{6}}
+\@writefile{toc}{\contentsline {paragraph}{Approximate Operators}{6}}
+\citation{belkin-laplacian-eigenmaps}
+\citation{coifman-geometric-diffusion}
+\citation{singer-graph-manifold}
+\citation{hein-graph-to-manifold}
+\citation{singer-graph-manifold}
+\citation{hein-graph-to-manifold}
+\newlabel{eq-lowdim-approx-grad}{{2.9}{7}}
+\newlabel{eq-approximate-laplacian}{{2.11}{7}}
+\newlabel{subsect-convergence-analysis}{{2.2}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Convergence Analysis}{7}}
+\newlabel{defn-cont-laplacian}{{2.12}{7}}
+\newlabel{eq-geodesic-averaging}{{2.13}{7}}
+\citation{barash-bilateral-pde}
+\citation{elad-bilateral}
+\citation{sochen-diffusion-confusion}
+\citation{buades-pde}
+\citation{coifman-geometric-diffusion}
+\citation{szlam-regularization}
+\newlabel{subsec-spectral-basis}{{2.3}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Manifold Spectral Basis}{8}}
+\newlabel{eq-laplacian-eigendec}{{2.3}{8}}
+\newlabel{eq-defn-eig-fourier}{{2.14}{8}}
+\citation{perona-anisotropic}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.2}{\ignorespaces \textit  { Some eigenvectors $u_\omega $ of Laplacians for (a) the local Laplacian (Fourier basis), (b) the semi-local Laplacian, (c) the non-local Laplacian. The image $f$ used to compute the discrete manifold is shown on figure 1.1\hbox {}, left. }}}{9}}
+\newlabel{fig-eigenvectors}{{2.2}{9}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Denoising: PDE Flows, Variational Minimization and Thresholding}{9}}
+\newlabel{subsect-pde-flows}{{3.1}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}PDE Flows}{9}}
+\newlabel{eq-pde-flow}{{3.1}{9}}
+\citation{weickert-coherence}
+\citation{tschumperle-inpainting}
+\citation{desbrun-implicit-fairing}
+\citation{rudin-tv}
+\citation{donoho-shrinkage}
+\citation{donoho-shrinkage}
+\citation{donoho-shrinkage}
+\citation{mallat-book}
+\citation{chambole-variational-wavelets}
+\@writefile{toc}{\contentsline {paragraph}{Time-dependant manifold}{10}}
+\newlabel{eq-time-dtp-flow}{{3.2}{10}}
+\newlabel{subsect-variational-regularization}{{3.2}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Variational Regularization}{10}}
+\newlabel{eq-variational-regularization}{{3.3}{10}}
+\newlabel{subsect-thresholding-ortho-basis}{{3.3}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Thresholding in an Orthogonal Basis}{10}}
+\@writefile{toc}{\contentsline {paragraph}{$\ell ^2$, $\ell ^1$ and $\ell ^0$ regularization}{10}}
+\newlabel{eq-thresh-estimator}{{3.4}{10}}
+\citation{yaroslavsky-book}
+\citation{tomasi-bilateral}
+\citation{smith-susan}
+\citation{buades-nl-means}
+\citation{buades-nl-means}
+\citation{dabov-collaborative-filtering}
+\@writefile{toc}{\contentsline {paragraph}{Variational interpretation of thresholding}{11}}
+\newlabel{eq-variational-thresholding}{{3.5}{11}}
+\newlabel{sect-heat-diffusion-manifold}{{4}{11}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Filtering and Diffusion on Manifolds}{11}}
+\newlabel{sect-noniterative-smoothing}{{4.1}{11}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Non-iterative Manifold Smoothing}{11}}
+\newlabel{eq-noniterative-diffusion}{{4.1}{11}}
+\citation{coifman-geometric-diffusion}
+\citation{szlam-regularization}
+\citation{comaniciu-mean-shift}
+\citation{spira-short-time-beltrami}
+\newlabel{sect-heat-diffusion}{{4.2}{12}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Manifold Heat Diffusion}{12}}
+\newlabel{eq-quadratic-gradient}{{4.2}{12}}
+\newlabel{eq-heat-diffusion}{{4.3}{12}}
+\@writefile{toc}{\contentsline {paragraph}{Iterative resolution}{12}}
+\newlabel{eq-iterative-heat-eq}{{4.4}{12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces \textit  { The coefficients $|\delimiter "426830A \mathaccentV {tilde}07Ef,\tmspace  +\thinmuskip {.1667em}u_\omega \delimiter "526930B |$ of a noisy image $f$. Center: using the local spectral basis $(u_\omega )_\omega $, which is the Fourier basis, right: using the non-local spectral basis. }}}{12}}
+\newlabel{fig-eigendecomposition}{{4.1}{12}}
+\@writefile{toc}{\contentsline {paragraph}{Spectral resolution}{12}}
+\newlabel{eq-spectral-atenuation}{{4.5}{12}}
+\citation{buades-nl-means}
+\@writefile{toc}{\contentsline {paragraph}{Diffusion examples}{13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces \textit  { Heat flow $f_t^{\text  {h}}$ with an increasing $t$ for: (a) local embedding (traditional heat equation) (b) semi-local embedding, (c) non-local embedding. }}}{13}}
+\newlabel{fig-heat-flow}{{4.2}{13}}
+\newlabel{sect-time-dpt-manifold}{{4.3}{13}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Time-dependant Manifold Diffusion}{13}}
+\newlabel{eq-time-dtp-manifold-flow}{{4.6}{13}}
+\citation{spira-short-time-beltrami}
+\citation{brox-iterated-nl-means}
+\citation{gilboa-nonlocal-segmentation}
+\citation{belkin-manifold-regularization}
+\newlabel{sect-variational-regularization}{{5}{14}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Variational Regularization on Manifolds}{14}}
+\newlabel{subsect-quad-regularization}{{5.1}{14}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Quadradic Manifold Regularization}{14}}
+\newlabel{eq-quadr-regul}{{5.1}{14}}
+\citation{gilboa-nonlocal-functionals}
+\citation{kindermann-nonlocal-functionals}
+\citation{zhou-regularization-discrete}
+\citation{elmoataz-nonlocal}
+\citation{gilboa-nonlocal-functionals}
+\citation{chambolle-algo-tv}
+\citation{rudin-tv}
+\citation{chambolle-algo-tv}
+\citation{szlam-regularization}
+\citation{szlam-regularization}
+\newlabel{subsect-total-variation-graph}{{5.2}{15}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Total Variation Manifold Regularization}{15}}
+\newlabel{eq-nonlocal-tv}{{5.2}{15}}
+\newlabel{sec-thresholding}{{6}{15}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Thresholding in a Manifold Spectral Basis}{15}}
+\citation{templates-book}
+\citation{tomasi-bilateral}
+\citation{buades-nl-means}
+\citation{szlam-regularization}
+\citation{gilboa-nonlocal-segmentation}
+\citation{gilboa-nonlocal-functionals}
+\citation{mallat-book}
+\newlabel{eq-estimator-thresh-manif}{{6.1}{16}}
+\@writefile{toc}{\contentsline {paragraph}{Numerical computation of the thresholding estimators}{16}}
+\@writefile{toc}{\contentsline {paragraph}{Connexion with manifold BV}{16}}
+\newlabel{sec-numerical-results}{{7}{16}}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Numerical Results}{16}}
+\citation{mallat-book}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.1}{\ignorespaces \textit  { Recovery error $R(\mathaccentV {bar}016f)$ of local, semi-local and non-local estimators $\mathaccentV {bar}016f$ for a natural image and a texture for various noise levels $R(f)$. }}}{17}}
+\newlabel{fig-denoising-results-locality}{{7.1}{17}}
+\newlabel{subsect-numerical-comparison}{{7.1}{17}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.1}Numerical Comparison of the Denoising Methods}{17}}
+\@writefile{toc}{\contentsline {paragraph}{Comparison of the local and non-local kernels}{17}}
+\@writefile{toc}{\contentsline {paragraph}{Comparison of the non-local denoising algorithms}{17}}
+\@writefile{toc}{\contentsline {paragraph}{Overall Comparison and Numerical complexity}{17}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.2}{\ignorespaces \textit  { Visual comparison of local, semi-local and non-local estimators for a noisy PSNR of $18.3dB$. }}}{18}}
+\newlabel{fig-denoising-results-locality-visual}{{7.2}{18}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.3}{\ignorespaces \textit  { Risk $R(\mathaccentV {bar}016f)$ of several estimators $\mathaccentV {bar}016f$ for a natural image and a texture for various noise levels $R(f)$. }}}{18}}
+\newlabel{fig-denoising-results}{{7.3}{18}}
+\citation{donoho-shrinkage}
+\citation{donoho-shrinkage}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.4}{\ignorespaces \textit  { Risk $R(\mathaccentV {bar}016f)$ of several estimators $\mathaccentV {bar}016f$ for a natural image and a texture for various noise levels $R(f)$. The soft and hard thresholding are applied over the non-local manifold spectral basis. }}}{19}}
+\newlabel{fig-denoising-results-visual}{{7.4}{19}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.2}Non-linear Approximation}{19}}
+\@writefile{toc}{\contentsline {paragraph}{$M$-terms approximation}{19}}
+\newlabel{eq-defn-nonlin-approx}{{7.2}{19}}
+\citation{coifman-wavelet-packets}
+\citation{bandelets-siam}
+\citation{coifman-wavelet-packets}
+\citation{krim-denoising}
+\citation{bandelets-denoising}
+\citation{donoho-wedglets}
+\citation{mallat-book}
+\citation{donoho-wedglets}
+\citation{candes-tight-frame}
+\citation{bandelets-siam}
+\citation{bandelets-peyre}
+\citation{demanet-waveatoms}
+\citation{demanet-waveatoms}
+\citation{buades-nl-means}
+\@writefile{toc}{\contentsline {paragraph}{Non-linear estimation and approximation}{20}}
+\newlabel{eq-equiv-thresh-denoising}{{7.1}{20}}
+\@writefile{toc}{\contentsline {paragraph}{Extension to orthogonal dictionaries}{20}}
+\newlabel{eq-control-dictionary}{{7.2}{20}}
+\@writefile{toc}{\contentsline {paragraph}{Theoretical bounds on non-linear approximation}{20}}
+\bibstyle{siam}
+\bibdata{bibliography}
+\bibcite{aharon-lips}{1}
+\bibcite{templates-book}{2}
+\bibcite{baker-parametric}{3}
+\bibcite{barash-bilateral-pde}{4}
+\bibcite{belkin-laplacian-eigenmaps}{5}
+\bibcite{belkin-manifold-regularization}{6}
+\@writefile{toc}{\contentsline {paragraph}{Numerical estimation of the approximation error}{21}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7.5}{\ignorespaces \textit  { Left: original image $f$. Right: error decay $\qopname  \relax o{log}_2(|\tmspace  -\thinmuskip {.1667em}| f-f_M |\tmspace  -\thinmuskip {.1667em}|)$ of the approximation $f_M$ of $f$ with $M$ coefficients (expressed in \% of the total number of coefficients) in various orthogonal bases.}}}{21}}
+\newlabel{fig-approx-error-decay}{{7.5}{21}}
+\bibcite{brox-iterated-nl-means}{7}
+\bibcite{buades-nl-means}{8}
+\bibcite{buades-pde}{9}
+\bibcite{candes-tight-frame}{10}
+\bibcite{carlsson-topological}{11}
+\bibcite{carlsson-local-behavior}{12}
+\bibcite{chambolle-algo-tv}{13}
+\bibcite{chambole-variational-wavelets}{14}
+\bibcite{chung-spectral-graph}{15}
+\bibcite{coifman-geometric-diffusion}{16}
+\bibcite{coifman-wavelet-packets}{17}
+\bibcite{comaniciu-mean-shift}{18}
+\bibcite{dabov-collaborative-filtering}{19}
+\bibcite{demanet-waveatoms}{20}
+\bibcite{desbrun-implicit-fairing}{21}
+\bibcite{donoho-wedglets}{22}
+\bibcite{donoho-shrinkage}{23}
+\bibcite{donoho-isomap}{24}
+\bibcite{bandelets-denoising}{25}
+\bibcite{efros-nonparam-sampling}{26}
+\bibcite{elad-bilateral}{27}
+\bibcite{elmoataz-nonlocal}{28}
+\bibcite{gilboa-nonlocal-functionals}{29}
+\bibcite{gilboa-nonlocal-segmentation}{30}
+\bibcite{hein-graph-to-manifold}{31}
+\bibcite{huggins-local-pca}{32}
+\bibcite{kindermann-nonlocal-functionals}{33}
+\bibcite{krim-denoising}{34}
+\bibcite{bandelets-siam}{35}
+\bibcite{lee-non-linear-stats}{36}
+\bibcite{mallat-book}{37}
+\bibcite{mallat-grouplets}{38}
+\bibcite{bandelets-peyre}{39}
+\bibcite{matusik-texture-design}{40}
+\bibcite{perona-anisotropic}{41}
+\bibcite{peyre-manifold-models}{42}
+\bibcite{peyre-manifold}{43}
+\bibcite{polthier-computational}{44}
+\bibcite{rudin-tv}{45}
+\bibcite{singer-graph-manifold}{46}
+\bibcite{smith-susan}{47}
+\bibcite{sochen-diffusion-confusion}{48}
+\bibcite{spira-short-time-beltrami}{49}
+\bibcite{szlam-regularization}{50}
+\bibcite{tomasi-bilateral}{51}
+\bibcite{tschumperle-inpainting}{52}
+\bibcite{wakin-multiscale-structure}{53}
+\bibcite{wang-appearance}{54}
+\bibcite{weickert-coherence}{55}
+\bibcite{xu-discrete-laplacian}{56}
+\bibcite{yaroslavsky-book}{57}
+\bibcite{zhou-regularization-discrete}{58}

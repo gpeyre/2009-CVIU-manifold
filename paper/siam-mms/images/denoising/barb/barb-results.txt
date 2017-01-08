@@ -1,0 +1,38 @@
+--> denoising, n=68, locality=nonlocal, sigma=0.100, normalized=0
+Noisy: PSNR=18.317
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=26.100
+Gauss: PSNR=24.098
+TV:    PSNR=20.076
+Wav:   PSNR=23.357
+--> denoising, n=68, locality=nonlocal, sigma=0.100, normalized=1
+Noisy: PSNR=18.317
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.372
+Gauss: PSNR=24.098
+TV:    PSNR=21.203
+Wav:   PSNR=23.357
+
+barb-denoise-nonloc-gauss.png   21.98
+barb-denoise-nonloc-quad.png    22.22
+barb-denoise-nonloc-hard.png    24.09barb-denoise-nonloc-soft.png    26.10
+barb-denoise-nonloc-tv.png      23.35
+
+--> denoising, n=68, locality=semilocal, sigma_sp=1.600, sigma_va=0.300, normalized=0
+Noisy: PSNR=18.317
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=21.709
+Gauss: PSNR=22.224
+TV:    PSNR=21.868
+Wav:   PSNR=23.357
+--> denoising, n=68, locality=semilocal, sigma_sp=1.600, sigma_va=0.300, normalized=1
+Noisy: PSNR=18.317
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=21.676
+Gauss: PSNR=22.224
+TV:    PSNR=21.983
+Wav:   PSNR=23.357

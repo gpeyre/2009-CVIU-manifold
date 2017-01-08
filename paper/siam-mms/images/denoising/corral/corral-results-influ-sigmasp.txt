@@ -1,0 +1,700 @@
+--> denoising, n=40, mode=semilocal, sigma_sp=2.000, sigma_va=0.030, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=18.848
+Gauss: PSNR=18.703
+Reg:   PSNR=18.777
+--> denoising, n=40, mode=semilocal, sigma_sp=2.000, sigma_va=0.060, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.427
+Gauss: PSNR=19.202
+Reg:   PSNR=19.303
+--> denoising, n=40, mode=semilocal, sigma_sp=2.000, sigma_va=0.090, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.764
+Gauss: PSNR=19.624
+Reg:   PSNR=19.641
+--> denoising, n=40, mode=semilocal, sigma_sp=2.000, sigma_va=0.120, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.957
+Gauss: PSNR=19.956
+Reg:   PSNR=19.855
+--> denoising, n=40, mode=semilocal, sigma_sp=2.000, sigma_va=0.150, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=20.072
+Gauss: PSNR=20.203
+Reg:   PSNR=19.992
+--> denoising, n=40, mode=semilocal, sigma_sp=2.000, sigma_va=0.180, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=20.144
+Gauss: PSNR=20.372
+Reg:   PSNR=20.080
+--> denoising, n=40, mode=semilocal, sigma_sp=2.000, sigma_va=0.210, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=20.187
+Gauss: PSNR=20.477
+Reg:   PSNR=20.137
+--> denoising, n=40, mode=semilocal, sigma_sp=2.000, sigma_va=0.240, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=20.211
+Gauss: PSNR=20.543
+Reg:   PSNR=20.176
+--> denoising, n=40, mode=semilocal, sigma_sp=2.000, sigma_va=0.270, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=20.225
+Gauss: PSNR=20.584
+Reg:   PSNR=20.202
+--> denoising, n=40, mode=semilocal, sigma_sp=2.000, sigma_va=0.300, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=20.233
+Gauss: PSNR=20.608
+Reg:   PSNR=20.220
+--> denoising, n=40, mode=semilocal, sigma_sp=2.889, sigma_va=0.030, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=18.942
+Gauss: PSNR=18.784
+Reg:   PSNR=18.876
+--> denoising, n=40, mode=semilocal, sigma_sp=2.889, sigma_va=0.060, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.503
+Gauss: PSNR=19.336
+Reg:   PSNR=19.396
+--> denoising, n=40, mode=semilocal, sigma_sp=2.889, sigma_va=0.090, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.767
+Gauss: PSNR=19.754
+Reg:   PSNR=19.674
+--> denoising, n=40, mode=semilocal, sigma_sp=2.889, sigma_va=0.120, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.895
+Gauss: PSNR=20.040
+Reg:   PSNR=19.835
+--> denoising, n=40, mode=semilocal, sigma_sp=2.889, sigma_va=0.150, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.962
+Gauss: PSNR=20.221
+Reg:   PSNR=19.930
+--> denoising, n=40, mode=semilocal, sigma_sp=2.889, sigma_va=0.180, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.995
+Gauss: PSNR=20.317
+Reg:   PSNR=19.985
+--> denoising, n=40, mode=semilocal, sigma_sp=2.889, sigma_va=0.210, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=20.010
+Gauss: PSNR=20.365
+Reg:   PSNR=20.016
+--> denoising, n=40, mode=semilocal, sigma_sp=2.889, sigma_va=0.240, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=20.019
+Gauss: PSNR=20.384
+Reg:   PSNR=20.031
+--> denoising, n=40, mode=semilocal, sigma_sp=2.889, sigma_va=0.270, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=20.016
+Gauss: PSNR=20.386
+Reg:   PSNR=20.038
+--> denoising, n=40, mode=semilocal, sigma_sp=2.889, sigma_va=0.300, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=20.015
+Gauss: PSNR=20.378
+Reg:   PSNR=20.041
+--> denoising, n=40, mode=semilocal, sigma_sp=3.778, sigma_va=0.030, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=18.990
+Gauss: PSNR=18.831
+Reg:   PSNR=18.934
+--> denoising, n=40, mode=semilocal, sigma_sp=3.778, sigma_va=0.060, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.503
+Gauss: PSNR=19.402
+Reg:   PSNR=19.429
+--> denoising, n=40, mode=semilocal, sigma_sp=3.778, sigma_va=0.090, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.723
+Gauss: PSNR=19.797
+Reg:   PSNR=19.666
+--> denoising, n=40, mode=semilocal, sigma_sp=3.778, sigma_va=0.120, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.817
+Gauss: PSNR=20.038
+Reg:   PSNR=19.793
+--> denoising, n=40, mode=semilocal, sigma_sp=3.778, sigma_va=0.150, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.859
+Gauss: PSNR=20.164
+Reg:   PSNR=19.863
+--> denoising, n=40, mode=semilocal, sigma_sp=3.778, sigma_va=0.180, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.874
+Gauss: PSNR=20.212
+Reg:   PSNR=19.899
+--> denoising, n=40, mode=semilocal, sigma_sp=3.778, sigma_va=0.210, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.880
+Gauss: PSNR=20.226
+Reg:   PSNR=19.916
+--> denoising, n=40, mode=semilocal, sigma_sp=3.778, sigma_va=0.240, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.877
+Gauss: PSNR=20.218
+Reg:   PSNR=19.917
+--> denoising, n=40, mode=semilocal, sigma_sp=3.778, sigma_va=0.270, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.866
+Gauss: PSNR=20.199
+Reg:   PSNR=19.915
+--> denoising, n=40, mode=semilocal, sigma_sp=3.778, sigma_va=0.300, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.860
+Gauss: PSNR=20.175
+Reg:   PSNR=19.908
+--> denoising, n=40, mode=semilocal, sigma_sp=4.667, sigma_va=0.030, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.015
+Gauss: PSNR=18.862
+Reg:   PSNR=18.968
+--> denoising, n=40, mode=semilocal, sigma_sp=4.667, sigma_va=0.060, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.486
+Gauss: PSNR=19.436
+Reg:   PSNR=19.438
+--> denoising, n=40, mode=semilocal, sigma_sp=4.667, sigma_va=0.090, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.676
+Gauss: PSNR=19.807
+Reg:   PSNR=19.648
+--> denoising, n=40, mode=semilocal, sigma_sp=4.667, sigma_va=0.120, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.751
+Gauss: PSNR=20.010
+Reg:   PSNR=19.756
+--> denoising, n=40, mode=semilocal, sigma_sp=4.667, sigma_va=0.150, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.780
+Gauss: PSNR=20.091
+Reg:   PSNR=19.810
+--> denoising, n=40, mode=semilocal, sigma_sp=4.667, sigma_va=0.180, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.789
+Gauss: PSNR=20.110
+Reg:   PSNR=19.838
+--> denoising, n=40, mode=semilocal, sigma_sp=4.667, sigma_va=0.210, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.785
+Gauss: PSNR=20.101
+Reg:   PSNR=19.846
+--> denoising, n=40, mode=semilocal, sigma_sp=4.667, sigma_va=0.240, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.777
+Gauss: PSNR=20.077
+Reg:   PSNR=19.844
+--> denoising, n=40, mode=semilocal, sigma_sp=4.667, sigma_va=0.270, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.767
+Gauss: PSNR=20.046
+Reg:   PSNR=19.838
+--> denoising, n=40, mode=semilocal, sigma_sp=4.667, sigma_va=0.300, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.754
+Gauss: PSNR=20.012
+Reg:   PSNR=19.825
+--> denoising, n=40, mode=semilocal, sigma_sp=5.556, sigma_va=0.030, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.026
+Gauss: PSNR=18.883
+Reg:   PSNR=18.987
+--> denoising, n=40, mode=semilocal, sigma_sp=5.556, sigma_va=0.060, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.464
+Gauss: PSNR=19.453
+Reg:   PSNR=19.440
+--> denoising, n=40, mode=semilocal, sigma_sp=5.556, sigma_va=0.090, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.634
+Gauss: PSNR=19.800
+Reg:   PSNR=19.634
+--> denoising, n=40, mode=semilocal, sigma_sp=5.556, sigma_va=0.120, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.699
+Gauss: PSNR=19.971
+Reg:   PSNR=19.729
+--> denoising, n=40, mode=semilocal, sigma_sp=5.556, sigma_va=0.150, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.719
+Gauss: PSNR=20.020
+Reg:   PSNR=19.777
+--> denoising, n=40, mode=semilocal, sigma_sp=5.556, sigma_va=0.180, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.720
+Gauss: PSNR=20.018
+Reg:   PSNR=19.796
+--> denoising, n=40, mode=semilocal, sigma_sp=5.556, sigma_va=0.210, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.717
+Gauss: PSNR=19.994
+Reg:   PSNR=19.804
+--> denoising, n=40, mode=semilocal, sigma_sp=5.556, sigma_va=0.240, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.702
+Gauss: PSNR=19.960
+Reg:   PSNR=19.800
+--> denoising, n=40, mode=semilocal, sigma_sp=5.556, sigma_va=0.270, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.695
+Gauss: PSNR=19.921
+Reg:   PSNR=19.789
+--> denoising, n=40, mode=semilocal, sigma_sp=5.556, sigma_va=0.300, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.684
+Gauss: PSNR=19.882
+Reg:   PSNR=19.779
+--> denoising, n=40, mode=semilocal, sigma_sp=6.444, sigma_va=0.030, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.027
+Gauss: PSNR=18.898
+Reg:   PSNR=18.999
+--> denoising, n=40, mode=semilocal, sigma_sp=6.444, sigma_va=0.060, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.440
+Gauss: PSNR=19.459
+Reg:   PSNR=19.438
+--> denoising, n=40, mode=semilocal, sigma_sp=6.444, sigma_va=0.090, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.597
+Gauss: PSNR=19.785
+Reg:   PSNR=19.619
+--> denoising, n=40, mode=semilocal, sigma_sp=6.444, sigma_va=0.120, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.656
+Gauss: PSNR=19.928
+Reg:   PSNR=19.714
+--> denoising, n=40, mode=semilocal, sigma_sp=6.444, sigma_va=0.150, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.671
+Gauss: PSNR=19.952
+Reg:   PSNR=19.760
+--> denoising, n=40, mode=semilocal, sigma_sp=6.444, sigma_va=0.180, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.668
+Gauss: PSNR=19.937
+Reg:   PSNR=19.773
+--> denoising, n=40, mode=semilocal, sigma_sp=6.444, sigma_va=0.210, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.662
+Gauss: PSNR=19.903
+Reg:   PSNR=19.776
+--> denoising, n=40, mode=semilocal, sigma_sp=6.444, sigma_va=0.240, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.650
+Gauss: PSNR=19.862
+Reg:   PSNR=19.773
+--> denoising, n=40, mode=semilocal, sigma_sp=6.444, sigma_va=0.270, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.644
+Gauss: PSNR=19.818
+Reg:   PSNR=19.765
+--> denoising, n=40, mode=semilocal, sigma_sp=6.444, sigma_va=0.300, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.627
+Gauss: PSNR=19.777
+Reg:   PSNR=19.748
+--> denoising, n=40, mode=semilocal, sigma_sp=7.333, sigma_va=0.030, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.023
+Gauss: PSNR=18.908
+Reg:   PSNR=19.008
+--> denoising, n=40, mode=semilocal, sigma_sp=7.333, sigma_va=0.060, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.414
+Gauss: PSNR=19.459
+Reg:   PSNR=19.434
+--> denoising, n=40, mode=semilocal, sigma_sp=7.333, sigma_va=0.090, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.565
+Gauss: PSNR=19.766
+Reg:   PSNR=19.615
+--> denoising, n=40, mode=semilocal, sigma_sp=7.333, sigma_va=0.120, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.619
+Gauss: PSNR=19.884
+Reg:   PSNR=19.702
+--> denoising, n=40, mode=semilocal, sigma_sp=7.333, sigma_va=0.150, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.630
+Gauss: PSNR=19.891
+Reg:   PSNR=19.745
+--> denoising, n=40, mode=semilocal, sigma_sp=7.333, sigma_va=0.180, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.630
+Gauss: PSNR=19.866
+Reg:   PSNR=19.766
+--> denoising, n=40, mode=semilocal, sigma_sp=7.333, sigma_va=0.210, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.622
+Gauss: PSNR=19.826
+Reg:   PSNR=19.763
+--> denoising, n=40, mode=semilocal, sigma_sp=7.333, sigma_va=0.240, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.607
+Gauss: PSNR=19.780
+Reg:   PSNR=19.757
+--> denoising, n=40, mode=semilocal, sigma_sp=7.333, sigma_va=0.270, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.600
+Gauss: PSNR=19.734
+Reg:   PSNR=19.746
+--> denoising, n=40, mode=semilocal, sigma_sp=7.333, sigma_va=0.300, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.591
+Gauss: PSNR=19.691
+Reg:   PSNR=19.735
+--> denoising, n=40, mode=semilocal, sigma_sp=8.222, sigma_va=0.030, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.016
+Gauss: PSNR=18.916
+Reg:   PSNR=19.014
+--> denoising, n=40, mode=semilocal, sigma_sp=8.222, sigma_va=0.060, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.387
+Gauss: PSNR=19.457
+Reg:   PSNR=19.427
+--> denoising, n=40, mode=semilocal, sigma_sp=8.222, sigma_va=0.090, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.534
+Gauss: PSNR=19.746
+Reg:   PSNR=19.611
+--> denoising, n=40, mode=semilocal, sigma_sp=8.222, sigma_va=0.120, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.584
+Gauss: PSNR=19.842
+Reg:   PSNR=19.694
+--> denoising, n=40, mode=semilocal, sigma_sp=8.222, sigma_va=0.150, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.596
+Gauss: PSNR=19.837
+Reg:   PSNR=19.736
+--> denoising, n=40, mode=semilocal, sigma_sp=8.222, sigma_va=0.180, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.597
+Gauss: PSNR=19.805
+Reg:   PSNR=19.756
+--> denoising, n=40, mode=semilocal, sigma_sp=8.222, sigma_va=0.210, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.589
+Gauss: PSNR=19.761
+Reg:   PSNR=19.757
+--> denoising, n=40, mode=semilocal, sigma_sp=8.222, sigma_va=0.240, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.574
+Gauss: PSNR=19.712
+Reg:   PSNR=19.748
+--> denoising, n=40, mode=semilocal, sigma_sp=8.222, sigma_va=0.270, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.565
+Gauss: PSNR=19.665
+Reg:   PSNR=19.738
+--> denoising, n=40, mode=semilocal, sigma_sp=8.222, sigma_va=0.300, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.556
+Gauss: PSNR=19.622
+Reg:   PSNR=19.724
+--> denoising, n=40, mode=semilocal, sigma_sp=9.111, sigma_va=0.030, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.009
+Gauss: PSNR=18.922
+Reg:   PSNR=19.018
+--> denoising, n=40, mode=semilocal, sigma_sp=9.111, sigma_va=0.060, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.365
+Gauss: PSNR=19.453
+Reg:   PSNR=19.429
+--> denoising, n=40, mode=semilocal, sigma_sp=9.111, sigma_va=0.090, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.502
+Gauss: PSNR=19.726
+Reg:   PSNR=19.601
+--> denoising, n=40, mode=semilocal, sigma_sp=9.111, sigma_va=0.120, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.552
+Gauss: PSNR=19.803
+Reg:   PSNR=19.685
+--> denoising, n=40, mode=semilocal, sigma_sp=9.111, sigma_va=0.150, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.566
+Gauss: PSNR=19.790
+Reg:   PSNR=19.729
+--> denoising, n=40, mode=semilocal, sigma_sp=9.111, sigma_va=0.180, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.566
+Gauss: PSNR=19.754
+Reg:   PSNR=19.749
+--> denoising, n=40, mode=semilocal, sigma_sp=9.111, sigma_va=0.210, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.560
+Gauss: PSNR=19.706
+Reg:   PSNR=19.753
+--> denoising, n=40, mode=semilocal, sigma_sp=9.111, sigma_va=0.240, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.546
+Gauss: PSNR=19.656
+Reg:   PSNR=19.745
+--> denoising, n=40, mode=semilocal, sigma_sp=9.111, sigma_va=0.270, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.539
+Gauss: PSNR=19.609
+Reg:   PSNR=19.733
+--> denoising, n=40, mode=semilocal, sigma_sp=9.111, sigma_va=0.300, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.529
+Gauss: PSNR=19.566
+Reg:   PSNR=19.721
+--> denoising, n=40, mode=semilocal, sigma_sp=10.000, sigma_va=0.030, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.001
+Gauss: PSNR=18.928
+Reg:   PSNR=19.024
+--> denoising, n=40, mode=semilocal, sigma_sp=10.000, sigma_va=0.060, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.341
+Gauss: PSNR=19.451
+Reg:   PSNR=19.428
+--> denoising, n=40, mode=semilocal, sigma_sp=10.000, sigma_va=0.090, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.475
+Gauss: PSNR=19.709
+Reg:   PSNR=19.600
+--> denoising, n=40, mode=semilocal, sigma_sp=10.000, sigma_va=0.120, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.523
+Gauss: PSNR=19.770
+Reg:   PSNR=19.680
+--> denoising, n=40, mode=semilocal, sigma_sp=10.000, sigma_va=0.150, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.536
+Gauss: PSNR=19.751
+Reg:   PSNR=19.723
+--> denoising, n=40, mode=semilocal, sigma_sp=10.000, sigma_va=0.180, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.536
+Gauss: PSNR=19.711
+Reg:   PSNR=19.742
+--> denoising, n=40, mode=semilocal, sigma_sp=10.000, sigma_va=0.210, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.531
+Gauss: PSNR=19.662
+Reg:   PSNR=19.744
+--> denoising, n=40, mode=semilocal, sigma_sp=10.000, sigma_va=0.240, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.526
+Gauss: PSNR=19.611
+Reg:   PSNR=19.748
+--> denoising, n=40, mode=semilocal, sigma_sp=10.000, sigma_va=0.270, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.512
+Gauss: PSNR=19.563
+Reg:   PSNR=19.734
+--> denoising, n=40, mode=semilocal, sigma_sp=10.000, sigma_va=0.300, normalized=1
+Noisy: PSNR=18.246
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.509
+Gauss: PSNR=19.520
+Reg:   PSNR=19.721

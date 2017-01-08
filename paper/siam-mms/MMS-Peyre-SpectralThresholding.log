@@ -1,0 +1,1027 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.19)  8 JAN 2017 15:34
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**MMS-Peyre-SpectralThresholding.tex
+(./MMS-Peyre-SpectralThresholding.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(./siamltex.cls
+Document Class: siamltex 1996/10/11 v1.2 LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/leqno.clo
+File: leqno.clo 2015/03/31 v1.1i Standard LaTeX option (left equation numbers)
+) (./siam10.clo
+File: siam10.clo 1994/10/01 v1.0 SIAM LaTeX file (size option)
+)
+\c@section=\count79
+\c@subsection=\count80
+\c@subsubsection=\count81
+\c@paragraph=\count82
+\c@subparagraph=\count83
+\c@rmnum=\count84
+\c@muni=\count85
+\c@theorem=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(./gpeyre.sty (/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip43
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks15
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amscd.sty
+Package: amscd 1999/11/29 v2.0 AMS Commutatitive Diagrams
+\athelp@=\toks19
+\minaw@=\dimen112
+\bigaw@=\dimen113
+\minCDarrowwidth=\dimen114
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count101
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen117
+\extrarowheight=\dimen118
+\NC@list=\toks21
+\extratabsurround=\skip46
+\backup@length=\skip47
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+\TX@col@width=\dimen119
+\TX@old@table=\dimen120
+\TX@old@col=\dimen121
+\TX@target=\dimen122
+\TX@delta=\dimen123
+\TX@cols=\count102
+\TX@ftn=\toks22
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+\c@thm=\count103
+\c@defn=\count104
+\c@cor=\count105
+\c@lem=\count106
+\c@prop=\count107
+\c@rem=\count108
+\c@exmp=\count109
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count110
+\float@exts=\toks23
+\float@box=\box28
+\@float@everytoks=\toks24
+\@floatcapt=\box29
+)
+\@float@every@listing=\toks25
+\c@listing=\count111
+\restsubwidth=\skip48
+\restsubheight=\skip49
+\restsubmoreheight=\skip50
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen124
+\epsfysize=\dimen125
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/vmargin/vmargin.sty
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+\PaperWidth=\dimen126
+\PaperHeight=\dimen127
+) (./MMS-Peyre-SpectralThresholding.aux)
+\openout1 = `MMS-Peyre-SpectralThresholding.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count112
+\scratchdimen=\dimen128
+\scratchbox=\box30
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen129
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks27
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 45.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 45.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<./images/intro/regular2d-local.png, id=1, 491.9178pt x 433.62pt>
+File: ./images/intro/regular2d-local.png Graphic file (type png)
+
+<use ./images/intro/regular2d-local.png>
+Package pdftex.def Info: ./images/intro/regular2d-local.png used on input line 
+77.
+(pdftex.def)             Requested size: 132.50273pt x 116.80107pt.
+
+<./images/intro/regular2d-semilocal.png, id=2, 375.804pt x 375.804pt>
+File: ./images/intro/regular2d-semilocal.png Graphic file (type png)
+
+<use ./images/intro/regular2d-semilocal.png>
+Package pdftex.def Info: ./images/intro/regular2d-semilocal.png used on input l
+ine 77.
+(pdftex.def)             Requested size: 132.50273pt x 132.50246pt.
+
+<./images/intro/regular2d-nonlocal.png, id=3, 392.1852pt x 392.1852pt>
+File: ./images/intro/regular2d-nonlocal.png Graphic file (type png)
+
+<use ./images/intro/regular2d-nonlocal.png>
+Package pdftex.def Info: ./images/intro/regular2d-nonlocal.png used on input li
+ne 77.
+(pdftex.def)             Requested size: 132.50273pt x 132.5034pt.
+
+Overfull \hbox (6.07666pt too wide) in paragraph at lines 77--77
+ [] 
+ []
+
+[1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
+s/intro/regular2d-local.png (PNG copy)> <./images/intro/regular2d-semilocal.png
+ (PNG copy)> <./images/intro/regular2d-nonlocal.png (PNG copy)>] [2] [3]
+<./images/potatoe.png, id=35, 513.92pt x 513.92pt>
+File: ./images/potatoe.png Graphic file (type png)
+ <use ./images/potatoe.png>
+Package pdftex.def Info: ./images/potatoe.png used on input line 233.
+(pdftex.def)             Requested size: 106.85788pt x 106.85205pt.
+Package epstopdf Info: Source file: <./images/edge-manifold.eps>
+(epstopdf)                    date: 2006-08-23 22:54:48
+(epstopdf)                    size: 320634 bytes
+(epstopdf)             Output file: <./images/edge-manifold-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-01-08 15:34:45
+(epstopdf)                    size: 14533 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/edge-manifold-eps
+-converted-to.pdf ./images/edge-manifold.eps>
+(epstopdf)             \includegraphics on input line 233.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/edge-manifold-eps-converted-to.pdf, id=36, 446.66875pt x 274.02374pt>
+File: ./images/edge-manifold-eps-converted-to.pdf Graphic file (type pdf)
+<use ./images/edge-manifold-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/edge-manifold-eps-converted-to.pdf used on in
+put line 233.
+(pdftex.def)             Requested size: 235.08864pt x 144.2242pt.
+
+<./images/manifold/edges/cartoon-curves.png, id=37, 353.6412pt x 353.6412pt>
+File: ./images/manifold/edges/cartoon-curves.png Graphic file (type png)
+
+<use ./images/manifold/edges/cartoon-curves.png>
+Package pdftex.def Info: ./images/manifold/edges/cartoon-curves.png used on inp
+ut line 244.
+(pdftex.def)             Requested size: 106.85788pt x 106.85942pt.
+
+<./images/manifold/edges/cartoon-manifold.png, id=38, 308.352pt x 298.716pt>
+File: ./images/manifold/edges/cartoon-manifold.png Graphic file (type png)
+
+<use ./images/manifold/edges/cartoon-manifold.png>
+Package pdftex.def Info: ./images/manifold/edges/cartoon-manifold.png used on i
+nput line 244.
+(pdftex.def)             Requested size: 128.23076pt x 124.22462pt.
+ [4 <./images/potatoe.png (PNG copy)> <./images/edge-manifold-eps-converted-to.
+pdf>]
+<./images/diffusion/corral/corral-diffusion-local-3.png, id=57, 50.1875pt x 50.
+1875pt>
+File: ./images/diffusion/corral/corral-diffusion-local-3.png Graphic file (type
+ png)
+ <use ./images/diffusion/corral/corral-diffusion-local-3.png>
+Package pdftex.def Info: ./images/diffusion/corral/corral-diffusion-local-3.png
+ used on input line 317.
+(pdftex.def)             Requested size: 76.93454pt x 76.94588pt.
+
+<./images/diffusion/corral/corral-diffusion-local-4.png, id=58, 50.1875pt x 50.
+1875pt>
+File: ./images/diffusion/corral/corral-diffusion-local-4.png Graphic file (type
+ png)
+ <use ./images/diffusion/corral/corral-diffusion-local-4.png>
+Package pdftex.def Info: ./images/diffusion/corral/corral-diffusion-local-4.png
+ used on input line 317.
+(pdftex.def)             Requested size: 76.93454pt x 76.94588pt.
+
+<./images/diffusion/corral/corral-diffusion-local-5.png, id=59, 50.1875pt x 50.
+1875pt>
+File: ./images/diffusion/corral/corral-diffusion-local-5.png Graphic file (type
+ png)
+ <use ./images/diffusion/corral/corral-diffusion-local-5.png>
+Package pdftex.def Info: ./images/diffusion/corral/corral-diffusion-local-5.png
+ used on input line 317.
+(pdftex.def)             Requested size: 76.93454pt x 76.94588pt.
+
+<./images/diffusion/corral/corral-diffusion-local-6.png, id=60, 50.1875pt x 50.
+1875pt>
+File: ./images/diffusion/corral/corral-diffusion-local-6.png Graphic file (type
+ png)
+ <use ./images/diffusion/corral/corral-diffusion-local-6.png>
+Package pdftex.def Info: ./images/diffusion/corral/corral-diffusion-local-6.png
+ used on input line 317.
+(pdftex.def)             Requested size: 76.93454pt x 76.94588pt.
+
+<./images/diffusion/corral/corral-original.png, id=61, 50.1875pt x 50.1875pt>
+File: ./images/diffusion/corral/corral-original.png Graphic file (type png)
+
+<use ./images/diffusion/corral/corral-original.png>
+Package pdftex.def Info: ./images/diffusion/corral/corral-original.png used on 
+input line 317.
+(pdftex.def)             Requested size: 76.93454pt x 76.94588pt.
+
+<./images/diffusion/corral/corral-diffusion-neigh-3.png, id=62, 50.1875pt x 50.
+1875pt>
+File: ./images/diffusion/corral/corral-diffusion-neigh-3.png Graphic file (type
+ png)
+ <use ./images/diffusion/corral/corral-diffusion-neigh-3.png>
+Package pdftex.def Info: ./images/diffusion/corral/corral-diffusion-neigh-3.png
+ used on input line 317.
+(pdftex.def)             Requested size: 76.93454pt x 76.94588pt.
+
+<./images/diffusion/corral/corral-diffusion-neigh-4.png, id=63, 50.1875pt x 50.
+1875pt>
+File: ./images/diffusion/corral/corral-diffusion-neigh-4.png Graphic file (type
+ png)
+ <use ./images/diffusion/corral/corral-diffusion-neigh-4.png>
+Package pdftex.def Info: ./images/diffusion/corral/corral-diffusion-neigh-4.png
+ used on input line 317.
+(pdftex.def)             Requested size: 76.93454pt x 76.94588pt.
+
+<./images/diffusion/corral/corral-diffusion-neigh-5.png, id=64, 50.1875pt x 50.
+1875pt>
+File: ./images/diffusion/corral/corral-diffusion-neigh-5.png Graphic file (type
+ png)
+ <use ./images/diffusion/corral/corral-diffusion-neigh-5.png>
+Package pdftex.def Info: ./images/diffusion/corral/corral-diffusion-neigh-5.png
+ used on input line 317.
+(pdftex.def)             Requested size: 76.93454pt x 76.94588pt.
+
+<./images/diffusion/corral/corral-diffusion-neigh-6.png, id=65, 50.1875pt x 50.
+1875pt>
+File: ./images/diffusion/corral/corral-diffusion-neigh-6.png Graphic file (type
+ png)
+ <use ./images/diffusion/corral/corral-diffusion-neigh-6.png>
+Package pdftex.def Info: ./images/diffusion/corral/corral-diffusion-neigh-6.png
+ used on input line 317.
+(pdftex.def)             Requested size: 76.93454pt x 76.94588pt.
+
+<./images/diffusion/corral/corral-diffusion-un-normalized-3.png, id=66, 50.1875
+pt x 50.1875pt>
+File: ./images/diffusion/corral/corral-diffusion-un-normalized-3.png Graphic fi
+le (type png)
+
+<use ./images/diffusion/corral/corral-diffusion-un-normalized-3.png>
+Package pdftex.def Info: ./images/diffusion/corral/corral-diffusion-un-normaliz
+ed-3.png used on input line 317.
+(pdftex.def)             Requested size: 76.93454pt x 76.94588pt.
+
+<./images/diffusion/corral/corral-diffusion-un-normalized-4.png, id=67, 50.1875
+pt x 50.1875pt>
+File: ./images/diffusion/corral/corral-diffusion-un-normalized-4.png Graphic fi
+le (type png)
+
+<use ./images/diffusion/corral/corral-diffusion-un-normalized-4.png>
+Package pdftex.def Info: ./images/diffusion/corral/corral-diffusion-un-normaliz
+ed-4.png used on input line 317.
+(pdftex.def)             Requested size: 76.93454pt x 76.94588pt.
+
+<./images/diffusion/corral/corral-diffusion-un-normalized-5.png, id=68, 50.1875
+pt x 50.1875pt>
+File: ./images/diffusion/corral/corral-diffusion-un-normalized-5.png Graphic fi
+le (type png)
+
+<use ./images/diffusion/corral/corral-diffusion-un-normalized-5.png>
+Package pdftex.def Info: ./images/diffusion/corral/corral-diffusion-un-normaliz
+ed-5.png used on input line 317.
+(pdftex.def)             Requested size: 76.93454pt x 76.94588pt.
+
+<./images/diffusion/corral/corral-diffusion-un-normalized-6.png, id=69, 50.1875
+pt x 50.1875pt>
+File: ./images/diffusion/corral/corral-diffusion-un-normalized-6.png Graphic fi
+le (type png)
+
+<use ./images/diffusion/corral/corral-diffusion-un-normalized-6.png>
+Package pdftex.def Info: ./images/diffusion/corral/corral-diffusion-un-normaliz
+ed-6.png used on input line 317.
+(pdftex.def)             Requested size: 76.93454pt x 76.94588pt.
+ [5 <./images/manifold/edges/cartoon-curves.png (PNG copy)> <./images/manifold/
+edges/cartoon-manifold.png (PNG copy)>] [6 <./images/diffusion/corral/corral-di
+ffusion-local-3.png (PNG copy)> <./images/diffusion/corral/corral-diffusion-loc
+al-4.png (PNG copy)> <./images/diffusion/corral/corral-diffusion-local-5.png (P
+NG copy)> <./images/diffusion/corral/corral-diffusion-local-6.png (PNG copy)> <
+./images/diffusion/corral/corral-original.png (PNG copy)> <./images/diffusion/c
+orral/corral-diffusion-neigh-3.png (PNG copy)> <./images/diffusion/corral/corra
+l-diffusion-neigh-4.png (PNG copy)> <./images/diffusion/corral/corral-diffusion
+-neigh-5.png (PNG copy)> <./images/diffusion/corral/corral-diffusion-neigh-6.pn
+g (PNG copy)> <./images/diffusion/corral/corral-diffusion-un-normalized-3.png (
+PNG copy)> <./images/diffusion/corral/corral-diffusion-un-normalized-4.png (PNG
+ copy)> <./images/diffusion/corral/corral-diffusion-un-normalized-5.png (PNG co
+py)> <./images/diffusion/corral/corral-diffusion-un-normalized-6.png (PNG copy)
+>] [7]
+<./images/diffusion/barb/barb-local-eigv-2.png, id=82, 64.24pt x 64.24pt>
+File: ./images/diffusion/barb/barb-local-eigv-2.png Graphic file (type png)
+
+<use ./images/diffusion/barb/barb-local-eigv-2.png>
+Package pdftex.def Info: ./images/diffusion/barb/barb-local-eigv-2.png used on 
+input line 510.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+
+<./images/diffusion/barb/barb-local-eigv-11.png, id=83, 64.24pt x 64.24pt>
+File: ./images/diffusion/barb/barb-local-eigv-11.png Graphic file (type png)
+
+<use ./images/diffusion/barb/barb-local-eigv-11.png>
+Package pdftex.def Info: ./images/diffusion/barb/barb-local-eigv-11.png used on
+ input line 510.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+
+<./images/diffusion/barb/barb-local-eigv-14.png, id=84, 64.24pt x 64.24pt>
+File: ./images/diffusion/barb/barb-local-eigv-14.png Graphic file (type png)
+
+<use ./images/diffusion/barb/barb-local-eigv-14.png>
+Package pdftex.def Info: ./images/diffusion/barb/barb-local-eigv-14.png used on
+ input line 510.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+
+<./images/diffusion/barb/barb-local-eigv-16.png, id=85, 64.24pt x 64.24pt>
+File: ./images/diffusion/barb/barb-local-eigv-16.png Graphic file (type png)
+
+<use ./images/diffusion/barb/barb-local-eigv-16.png>
+Package pdftex.def Info: ./images/diffusion/barb/barb-local-eigv-16.png used on
+ input line 510.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+
+<./images/diffusion/potatoe/potatoe-neigh-eigv-10.png, id=86, 50.1875pt x 50.18
+75pt>
+File: ./images/diffusion/potatoe/potatoe-neigh-eigv-10.png Graphic file (type p
+ng)
+ <use ./images/diffusion/potatoe/potatoe-neigh-eigv-10.png>
+Package pdftex.def Info: ./images/diffusion/potatoe/potatoe-neigh-eigv-10.png u
+sed on input line 510.
+(pdftex.def)             Requested size: 94.03545pt x 94.04922pt.
+
+<./images/diffusion/potatoe/potatoe-neigh-eigv-19.png, id=87, 50.1875pt x 50.18
+75pt>
+File: ./images/diffusion/potatoe/potatoe-neigh-eigv-19.png Graphic file (type p
+ng)
+ <use ./images/diffusion/potatoe/potatoe-neigh-eigv-19.png>
+Package pdftex.def Info: ./images/diffusion/potatoe/potatoe-neigh-eigv-19.png u
+sed on input line 510.
+(pdftex.def)             Requested size: 94.03545pt x 94.04922pt.
+
+<./images/diffusion/potatoe/potatoe-neigh-eigv-22.png, id=88, 50.1875pt x 50.18
+75pt>
+File: ./images/diffusion/potatoe/potatoe-neigh-eigv-22.png Graphic file (type p
+ng)
+ <use ./images/diffusion/potatoe/potatoe-neigh-eigv-22.png>
+Package pdftex.def Info: ./images/diffusion/potatoe/potatoe-neigh-eigv-22.png u
+sed on input line 510.
+(pdftex.def)             Requested size: 94.03545pt x 94.04922pt.
+
+<./images/diffusion/potatoe/potatoe-neigh-eigv-25.png, id=89, 50.1875pt x 50.18
+75pt>
+File: ./images/diffusion/potatoe/potatoe-neigh-eigv-25.png Graphic file (type p
+ng)
+ <use ./images/diffusion/potatoe/potatoe-neigh-eigv-25.png>
+Package pdftex.def Info: ./images/diffusion/potatoe/potatoe-neigh-eigv-25.png u
+sed on input line 510.
+(pdftex.def)             Requested size: 94.03545pt x 94.04922pt.
+
+<./images/diffusion/potatoe/potatoe-un-normalized-eigv-3.png, id=90, 50.1875pt 
+x 50.1875pt>
+File: ./images/diffusion/potatoe/potatoe-un-normalized-eigv-3.png Graphic file 
+(type png)
+ <use ./images/diffusion/potatoe/potatoe-un-normalized-eigv-3.png>
+Package pdftex.def Info: ./images/diffusion/potatoe/potatoe-un-normalized-eigv-
+3.png used on input line 510.
+(pdftex.def)             Requested size: 94.03545pt x 94.04922pt.
+
+<./images/diffusion/potatoe/potatoe-un-normalized-eigv-5.png, id=91, 50.1875pt 
+x 50.1875pt>
+File: ./images/diffusion/potatoe/potatoe-un-normalized-eigv-5.png Graphic file 
+(type png)
+ <use ./images/diffusion/potatoe/potatoe-un-normalized-eigv-5.png>
+Package pdftex.def Info: ./images/diffusion/potatoe/potatoe-un-normalized-eigv-
+5.png used on input line 510.
+(pdftex.def)             Requested size: 94.03545pt x 94.04922pt.
+
+<./images/diffusion/potatoe/potatoe-un-normalized-eigv-10.png, id=92, 50.1875pt
+ x 50.1875pt>
+File: ./images/diffusion/potatoe/potatoe-un-normalized-eigv-10.png Graphic file
+ (type png)
+
+<use ./images/diffusion/potatoe/potatoe-un-normalized-eigv-10.png>
+Package pdftex.def Info: ./images/diffusion/potatoe/potatoe-un-normalized-eigv-
+10.png used on input line 510.
+(pdftex.def)             Requested size: 94.03545pt x 94.04922pt.
+
+<./images/diffusion/potatoe/potatoe-un-normalized-eigv-11.png, id=93, 50.1875pt
+ x 50.1875pt>
+File: ./images/diffusion/potatoe/potatoe-un-normalized-eigv-11.png Graphic file
+ (type png)
+
+<use ./images/diffusion/potatoe/potatoe-un-normalized-eigv-11.png>
+Package pdftex.def Info: ./images/diffusion/potatoe/potatoe-un-normalized-eigv-
+11.png used on input line 510.
+(pdftex.def)             Requested size: 94.03545pt x 94.04922pt.
+ [8] [9 <./images/diffusion/barb/barb-local-eigv-2.png (PNG copy)> <./images/di
+ffusion/barb/barb-local-eigv-11.png (PNG copy)> <./images/diffusion/barb/barb-l
+ocal-eigv-14.png (PNG copy)> <./images/diffusion/barb/barb-local-eigv-16.png (P
+NG copy)> <./images/diffusion/potatoe/potatoe-neigh-eigv-10.png (PNG copy)> <./
+images/diffusion/potatoe/potatoe-neigh-eigv-19.png (PNG copy)> <./images/diffus
+ion/potatoe/potatoe-neigh-eigv-22.png (PNG copy)> <./images/diffusion/potatoe/p
+otatoe-neigh-eigv-25.png (PNG copy)> <./images/diffusion/potatoe/potatoe-un-nor
+malized-eigv-3.png (PNG copy)> <./images/diffusion/potatoe/potatoe-un-normalize
+d-eigv-5.png (PNG copy)> <./images/diffusion/potatoe/potatoe-un-normalized-eigv
+-10.png (PNG copy)> <./images/diffusion/potatoe/potatoe-un-normalized-eigv-11.p
+ng (PNG copy)>]
+Overfull \hbox (0.6527pt too wide) in paragraph at lines 573--574
+\OT1/cmr/m/n/10 anisotropic dif-fu-sion along time-varying ten-sors fields [[]]
+ and dif-fu-sion on tri-an-gu-lated sur-faces [[]]. 
+ []
+
+[10] [11]
+<./images/diffusion/barb/img/barb-denoising-local-1.png, id=106, 64.24pt x 64.2
+4pt>
+File: ./images/diffusion/barb/img/barb-denoising-local-1.png Graphic file (type
+ png)
+ <use ./images/diffusion/barb/img/barb-denoising-local-1.png>
+Package pdftex.def Info: ./images/diffusion/barb/img/barb-denoising-local-1.png
+ used on input line 743.
+(pdftex.def)             Requested size: 106.85788pt x 106.86674pt.
+
+<./images/diffusion/barb/barb-denoising-local-coefficients.png, id=107, 471.682
+2pt x 373.395pt>
+File: ./images/diffusion/barb/barb-denoising-local-coefficients.png Graphic fil
+e (type png)
+
+<use ./images/diffusion/barb/barb-denoising-local-coefficients.png>
+Package pdftex.def Info: ./images/diffusion/barb/barb-denoising-local-coefficie
+nts.png used on input line 743.
+(pdftex.def)             Requested size: 141.05318pt x 111.66042pt.
+
+<./images/diffusion/barb/barb-denoising-neigh-coefficients.png, id=108, 470.718
+6pt x 372.4314pt>
+File: ./images/diffusion/barb/barb-denoising-neigh-coefficients.png Graphic fil
+e (type png)
+
+<use ./images/diffusion/barb/barb-denoising-neigh-coefficients.png>
+Package pdftex.def Info: ./images/diffusion/barb/barb-denoising-neigh-coefficie
+nts.png used on input line 743.
+(pdftex.def)             Requested size: 141.05318pt x 111.59956pt.
+ [12 <./images/diffusion/barb/img/barb-denoising-local-1.png (PNG copy)> <./ima
+ges/diffusion/barb/barb-denoising-local-coefficients.png (PNG copy)> <./images/
+diffusion/barb/barb-denoising-neigh-coefficients.png (PNG copy)>]
+File: ./images/diffusion/barb/img/barb-denoising-local-1.png Graphic file (type
+ png)
+
+<use ./images/diffusion/barb/img/barb-denoising-local-1.png>
+Package pdftex.def Info: ./images/diffusion/barb/img/barb-denoising-local-1.png
+ used on input line 793.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+
+<./images/diffusion/barb/img/barb-denoising-local-3.png, id=112, 64.24pt x 64.2
+4pt>
+File: ./images/diffusion/barb/img/barb-denoising-local-3.png Graphic file (type
+ png)
+ <use ./images/diffusion/barb/img/barb-denoising-local-3.png>
+Package pdftex.def Info: ./images/diffusion/barb/img/barb-denoising-local-3.png
+ used on input line 793.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+
+<./images/diffusion/barb/img/barb-denoising-local-5.png, id=113, 64.24pt x 64.2
+4pt>
+File: ./images/diffusion/barb/img/barb-denoising-local-5.png Graphic file (type
+ png)
+ <use ./images/diffusion/barb/img/barb-denoising-local-5.png>
+Package pdftex.def Info: ./images/diffusion/barb/img/barb-denoising-local-5.png
+ used on input line 793.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+
+<./images/diffusion/barb/img/barb-denoising-local-6.png, id=114, 64.24pt x 64.2
+4pt>
+File: ./images/diffusion/barb/img/barb-denoising-local-6.png Graphic file (type
+ png)
+ <use ./images/diffusion/barb/img/barb-denoising-local-6.png>
+Package pdftex.def Info: ./images/diffusion/barb/img/barb-denoising-local-6.png
+ used on input line 793.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+
+<./images/diffusion/barb/img/barb-denoising-neigh-1.png, id=115, 64.24pt x 64.2
+4pt>
+File: ./images/diffusion/barb/img/barb-denoising-neigh-1.png Graphic file (type
+ png)
+ <use ./images/diffusion/barb/img/barb-denoising-neigh-1.png>
+Package pdftex.def Info: ./images/diffusion/barb/img/barb-denoising-neigh-1.png
+ used on input line 793.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+
+<./images/diffusion/barb/img/barb-denoising-neigh-3.png, id=116, 64.24pt x 64.2
+4pt>
+File: ./images/diffusion/barb/img/barb-denoising-neigh-3.png Graphic file (type
+ png)
+ <use ./images/diffusion/barb/img/barb-denoising-neigh-3.png>
+Package pdftex.def Info: ./images/diffusion/barb/img/barb-denoising-neigh-3.png
+ used on input line 793.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+
+<./images/diffusion/barb/img/barb-denoising-neigh-5.png, id=117, 64.24pt x 64.2
+4pt>
+File: ./images/diffusion/barb/img/barb-denoising-neigh-5.png Graphic file (type
+ png)
+ <use ./images/diffusion/barb/img/barb-denoising-neigh-5.png>
+Package pdftex.def Info: ./images/diffusion/barb/img/barb-denoising-neigh-5.png
+ used on input line 793.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+
+<./images/diffusion/barb/img/barb-denoising-neigh-6.png, id=118, 64.24pt x 64.2
+4pt>
+File: ./images/diffusion/barb/img/barb-denoising-neigh-6.png Graphic file (type
+ png)
+ <use ./images/diffusion/barb/img/barb-denoising-neigh-6.png>
+Package pdftex.def Info: ./images/diffusion/barb/img/barb-denoising-neigh-6.png
+ used on input line 793.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+
+<./images/diffusion/barb/img/barb-denoising-un-normalized-1.png, id=119, 64.24p
+t x 64.24pt>
+File: ./images/diffusion/barb/img/barb-denoising-un-normalized-1.png Graphic fi
+le (type png)
+
+<use ./images/diffusion/barb/img/barb-denoising-un-normalized-1.png>
+Package pdftex.def Info: ./images/diffusion/barb/img/barb-denoising-un-normaliz
+ed-1.png used on input line 793.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+
+<./images/diffusion/barb/img/barb-denoising-un-normalized-3.png, id=120, 64.24p
+t x 64.24pt>
+File: ./images/diffusion/barb/img/barb-denoising-un-normalized-3.png Graphic fi
+le (type png)
+
+<use ./images/diffusion/barb/img/barb-denoising-un-normalized-3.png>
+Package pdftex.def Info: ./images/diffusion/barb/img/barb-denoising-un-normaliz
+ed-3.png used on input line 793.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+
+<./images/diffusion/barb/img/barb-denoising-un-normalized-4.png, id=121, 64.24p
+t x 64.24pt>
+File: ./images/diffusion/barb/img/barb-denoising-un-normalized-4.png Graphic fi
+le (type png)
+
+<use ./images/diffusion/barb/img/barb-denoising-un-normalized-4.png>
+Package pdftex.def Info: ./images/diffusion/barb/img/barb-denoising-un-normaliz
+ed-4.png used on input line 793.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+
+<./images/diffusion/barb/img/barb-denoising-un-normalized-5.png, id=122, 64.24p
+t x 64.24pt>
+File: ./images/diffusion/barb/img/barb-denoising-un-normalized-5.png Graphic fi
+le (type png)
+
+<use ./images/diffusion/barb/img/barb-denoising-un-normalized-5.png>
+Package pdftex.def Info: ./images/diffusion/barb/img/barb-denoising-un-normaliz
+ed-5.png used on input line 793.
+(pdftex.def)             Requested size: 94.03545pt x 94.04251pt.
+ [13 <./images/diffusion/barb/img/barb-denoising-local-3.png (PNG copy)> <./ima
+ges/diffusion/barb/img/barb-denoising-local-5.png (PNG copy)> <./images/diffusi
+on/barb/img/barb-denoising-local-6.png (PNG copy)> <./images/diffusion/barb/img
+/barb-denoising-neigh-1.png (PNG copy)> <./images/diffusion/barb/img/barb-denoi
+sing-neigh-3.png (PNG copy)> <./images/diffusion/barb/img/barb-denoising-neigh-
+5.png (PNG copy)> <./images/diffusion/barb/img/barb-denoising-neigh-6.png (PNG 
+copy)> <./images/diffusion/barb/img/barb-denoising-un-normalized-1.png (PNG cop
+y)> <./images/diffusion/barb/img/barb-denoising-un-normalized-3.png (PNG copy)>
+ <./images/diffusion/barb/img/barb-denoising-un-normalized-4.png (PNG copy)> <.
+/images/diffusion/barb/img/barb-denoising-un-normalized-5.png (PNG copy)>] [14]
+ [15]
+Package epstopdf Info: Source file: <./images/denoising/denoising-results-local
+ity.eps>
+(epstopdf)                    date: 2008-03-08 13:47:56
+(epstopdf)                    size: 1137385 bytes
+(epstopdf)             Output file: <./images/denoising/denoising-results-local
+ity-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 15:34:45
+(epstopdf)                    size: 88064 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/denoising/denoisi
+ng-results-locality-eps-converted-to.pdf ./images/denoising/denoising-results-l
+ocality.eps>
+(epstopdf)             \includegraphics on input line 984.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/denoising/denoising-results-locality-eps-converted-to.pdf, id=134, 52
+1.95pt x 254.9525pt>
+File: ./images/denoising/denoising-results-locality-eps-converted-to.pdf Graphi
+c file (type pdf)
+
+<use ./images/denoising/denoising-results-locality-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/denoising/denoising-results-locality-eps-conv
+erted-to.pdf used on input line 984.
+(pdftex.def)             Requested size: 427.43153pt x 208.78618pt.
+
+[16]
+<./images/denoising/corral/corral-original.png, id=138, 68.255pt x 68.255pt>
+File: ./images/denoising/corral/corral-original.png Graphic file (type png)
+
+<use ./images/denoising/corral/corral-original.png>
+Package pdftex.def Info: ./images/denoising/corral/corral-original.png used on 
+input line 1015.
+(pdftex.def)             Requested size: 115.40833pt x 115.41643pt.
+
+<./images/denoising/corral/corral-noisy.png, id=139, 68.255pt x 68.255pt>
+File: ./images/denoising/corral/corral-noisy.png Graphic file (type png)
+
+<use ./images/denoising/corral/corral-noisy.png>
+Package pdftex.def Info: ./images/denoising/corral/corral-noisy.png used on inp
+ut line 1015.
+(pdftex.def)             Requested size: 115.40833pt x 115.41643pt.
+
+<./images/denoising/corral/corral-denoise-wav.png, id=140, 68.255pt x 68.255pt>
+File: ./images/denoising/corral/corral-denoise-wav.png Graphic file (type png)
+<use ./images/denoising/corral/corral-denoise-wav.png>
+Package pdftex.def Info: ./images/denoising/corral/corral-denoise-wav.png used 
+on input line 1015.
+(pdftex.def)             Requested size: 115.40833pt x 115.41643pt.
+
+<./images/denoising/corral/corral-denoise-local.png, id=141, 68.255pt x 68.255p
+t>
+File: ./images/denoising/corral/corral-denoise-local.png Graphic file (type png
+)
+ <use ./images/denoising/corral/corral-denoise-local.png>
+Package pdftex.def Info: ./images/denoising/corral/corral-denoise-local.png use
+d on input line 1015.
+(pdftex.def)             Requested size: 115.40833pt x 115.41643pt.
+
+<./images/denoising/corral/corral-denoise-semilocal.png, id=142, 68.255pt x 68.
+255pt>
+File: ./images/denoising/corral/corral-denoise-semilocal.png Graphic file (type
+ png)
+ <use ./images/denoising/corral/corral-denoise-semilocal.png>
+Package pdftex.def Info: ./images/denoising/corral/corral-denoise-semilocal.png
+ used on input line 1015.
+(pdftex.def)             Requested size: 115.40833pt x 115.41643pt.
+
+<./images/denoising/corral/corral-denoise-nonlocal.png, id=143, 68.255pt x 68.2
+55pt>
+File: ./images/denoising/corral/corral-denoise-nonlocal.png Graphic file (type 
+png)
+ <use ./images/denoising/corral/corral-denoise-nonlocal.png>
+Package pdftex.def Info: ./images/denoising/corral/corral-denoise-nonlocal.png 
+used on input line 1015.
+(pdftex.def)             Requested size: 115.40833pt x 115.41643pt.
+Package epstopdf Info: Source file: <./images/denoising/denoising-results.eps>
+(epstopdf)                    date: 2008-03-08 13:48:15
+(epstopdf)                    size: 1127948 bytes
+(epstopdf)             Output file: <./images/denoising/denoising-results-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2017-01-08 15:34:46
+(epstopdf)                    size: 86122 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/denoising/denoisi
+ng-results-eps-converted-to.pdf ./images/denoising/denoising-results.eps>
+(epstopdf)             \includegraphics on input line 1028.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/denoising/denoising-results-eps-converted-to.pdf, id=144, 521.95pt x 
+234.8775pt>
+File: ./images/denoising/denoising-results-eps-converted-to.pdf Graphic file (t
+ype pdf)
+ <use ./images/denoising/denoising-results-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/denoising/denoising-results-eps-converted-to.
+pdf used on input line 1028.
+(pdftex.def)             Requested size: 427.43153pt x 192.34633pt.
+
+<./images/denoising/barb/barb-original.png, id=145, 68.255pt x 68.255pt>
+File: ./images/denoising/barb/barb-original.png Graphic file (type png)
+
+<use ./images/denoising/barb/barb-original.png>
+Package pdftex.def Info: ./images/denoising/barb/barb-original.png used on inpu
+t line 1054.
+(pdftex.def)             Requested size: 115.40833pt x 115.41643pt.
+
+<./images/denoising/barb/barb-noisy.png, id=146, 68.255pt x 68.255pt>
+File: ./images/denoising/barb/barb-noisy.png Graphic file (type png)
+
+<use ./images/denoising/barb/barb-noisy.png>
+Package pdftex.def Info: ./images/denoising/barb/barb-noisy.png used on input l
+ine 1054.
+(pdftex.def)             Requested size: 115.40833pt x 115.41643pt.
+
+<./images/denoising/barb/barb-denoise-nonloc-gauss.png, id=147, 68.255pt x 68.2
+55pt>
+File: ./images/denoising/barb/barb-denoise-nonloc-gauss.png Graphic file (type 
+png)
+ <use ./images/denoising/barb/barb-denoise-nonloc-gauss.png>
+Package pdftex.def Info: ./images/denoising/barb/barb-denoise-nonloc-gauss.png 
+used on input line 1054.
+(pdftex.def)             Requested size: 115.40833pt x 115.41643pt.
+
+<./images/denoising/barb/barb-denoise-nonloc-quad.png, id=148, 68.255pt x 68.25
+5pt>
+File: ./images/denoising/barb/barb-denoise-nonloc-quad.png Graphic file (type p
+ng)
+ <use ./images/denoising/barb/barb-denoise-nonloc-quad.png>
+Package pdftex.def Info: ./images/denoising/barb/barb-denoise-nonloc-quad.png u
+sed on input line 1054.
+(pdftex.def)             Requested size: 115.40833pt x 115.41643pt.
+
+<./images/denoising/barb/barb-denoise-nonloc-hard.png, id=149, 68.255pt x 68.25
+5pt>
+File: ./images/denoising/barb/barb-denoise-nonloc-hard.png Graphic file (type p
+ng)
+ <use ./images/denoising/barb/barb-denoise-nonloc-hard.png>
+Package pdftex.def Info: ./images/denoising/barb/barb-denoise-nonloc-hard.png u
+sed on input line 1054.
+(pdftex.def)             Requested size: 115.40833pt x 115.41643pt.
+
+<./images/denoising/barb/barb-denoise-unorm-nonloc-tv.png, id=150, 68.255pt x 6
+8.255pt>
+File: ./images/denoising/barb/barb-denoise-unorm-nonloc-tv.png Graphic file (ty
+pe png)
+ <use ./images/denoising/barb/barb-denoise-unorm-nonloc-tv.png>
+Package pdftex.def Info: ./images/denoising/barb/barb-denoise-unorm-nonloc-tv.p
+ng used on input line 1054.
+(pdftex.def)             Requested size: 115.40833pt x 115.41643pt.
+
+<./images/denoising/barb/barb-denoise-nonloc-tv.png, id=151, 68.255pt x 68.255p
+t>
+File: ./images/denoising/barb/barb-denoise-nonloc-tv.png Graphic file (type png
+)
+ <use ./images/denoising/barb/barb-denoise-nonloc-tv.png>
+Package pdftex.def Info: ./images/denoising/barb/barb-denoise-nonloc-tv.png use
+d on input line 1054.
+(pdftex.def)             Requested size: 115.40833pt x 115.41643pt.
+
+<./images/denoising/barb/barb-denoise-nonloc-soft.png, id=152, 68.255pt x 68.25
+5pt>
+File: ./images/denoising/barb/barb-denoise-nonloc-soft.png Graphic file (type p
+ng)
+ <use ./images/denoising/barb/barb-denoise-nonloc-soft.png>
+Package pdftex.def Info: ./images/denoising/barb/barb-denoise-nonloc-soft.png u
+sed on input line 1054.
+(pdftex.def)             Requested size: 115.40833pt x 115.41643pt.
+ [17 <./images/denoising/denoising-results-locality-eps-converted-to.pdf>]
+Underfull \vbox (badness 5787) has occurred while \output is active []
+
+ [18 <./images/denoising/corral/corral-original.png (PNG copy)> <./images/denoi
+sing/corral/corral-noisy.png (PNG copy)> <./images/denoising/corral/corral-deno
+ise-wav.png (PNG copy)> <./images/denoising/corral/corral-denoise-local.png (PN
+G copy)> <./images/denoising/corral/corral-denoise-semilocal.png (PNG copy)> <.
+/images/denoising/corral/corral-denoise-nonlocal.png (PNG copy)> <./images/deno
+ising/denoising-results-eps-converted-to.pdf>] [19 <./images/denoising/barb/bar
+b-original.png (PNG copy)> <./images/denoising/barb/barb-noisy.png (PNG copy)> 
+<./images/denoising/barb/barb-denoise-nonloc-gauss.png (PNG copy)> <./images/de
+noising/barb/barb-denoise-nonloc-quad.png (PNG copy)> <./images/denoising/barb/
+barb-denoise-nonloc-hard.png (PNG copy)> <./images/denoising/barb/barb-denoise-
+unorm-nonloc-tv.png (PNG copy)> <./images/denoising/barb/barb-denoise-nonloc-tv
+.png (PNG copy)> <./images/denoising/barb/barb-denoise-nonloc-soft.png (PNG cop
+y)>]
+[20] <./images/approximation/barb-original.png, id=201, 64.24pt x 64.24pt>
+File: ./images/approximation/barb-original.png Graphic file (type png)
+
+<use ./images/approximation/barb-original.png>
+Package pdftex.def Info: ./images/approximation/barb-original.png used on input
+ line 1144.
+(pdftex.def)             Requested size: 111.12984pt x 111.13857pt.
+Package epstopdf Info: Source file: <./images/approximation/barb-approx-err-dec
+ay.eps>
+(epstopdf)                    date: 2007-04-11 07:07:34
+(epstopdf)                    size: 927456 bytes
+(epstopdf)             Output file: <./images/approximation/barb-approx-err-dec
+ay-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 15:34:46
+(epstopdf)                    size: 85322 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/approximation/bar
+b-approx-err-decay-eps-converted-to.pdf ./images/approximation/barb-approx-err-
+decay.eps>
+(epstopdf)             \includegraphics on input line 1144.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/approximation/barb-approx-err-decay-eps-converted-to.pdf, id=202, 498
+.86375pt x 397.485pt>
+File: ./images/approximation/barb-approx-err-decay-eps-converted-to.pdf Graphic
+ file (type pdf)
+
+<use ./images/approximation/barb-approx-err-decay-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/approximation/barb-approx-err-decay-eps-conve
+rted-to.pdf used on input line 1144.
+(pdftex.def)             Requested size: 213.71576pt x 170.28444pt.
+
+(./MMS-Peyre-SpectralThresholding.bbl [21 <./images/approximation/barb-original
+.png (PNG copy)> <./images/approximation/barb-approx-err-decay-eps-converted-to
+.pdf>]
+Missing character: There is no – in font cmr8!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22])
+[23] (./MMS-Peyre-SpectralThresholding.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3575 strings out of 493014
+ 57815 string characters out of 6133351
+ 112280 words of memory out of 5000000
+ 6969 multiletter control sequences out of 15000+600000
+ 11520 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,16n,26p,1223b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on MMS-Peyre-SpectralThresholding.pdf (23 pages, 1373669 bytes).
+
+PDF statistics:
+ 309 PDF objects out of 1000 (max. 8388607)
+ 180 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 321 words of extra memory for PDF output out of 10000 (max. 10000000)
+

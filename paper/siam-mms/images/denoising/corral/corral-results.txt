@@ -1,0 +1,32 @@
+--> denoising, n=68, locality=nonlocal, sigma=0.100, normalized=0
+Noisy: PSNR=18.317
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=21.764
+Gauss: PSNR=21.117
+TV:    PSNR=21.678
+Wav:   PSNR=20.614
+--> denoising, n=68, locality=nonlocal, sigma=0.100, normalized=1
+Noisy: PSNR=18.317
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=19.638
+Gauss: PSNR=21.117
+TV:    PSNR=20.465
+Wav:   PSNR=20.614
+--> denoising, n=68, locality=semilocal, sigma_sp=1.600, sigma_va=0.300, normalized=0
+Noisy: PSNR=18.317
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=20.253
+Gauss: PSNR=20.835
+TV:    PSNR=20.316
+Wav:   PSNR=20.614
+--> denoising, n=68, locality=semilocal, sigma_sp=1.600, sigma_va=0.300, normalized=1
+Noisy: PSNR=18.317
+Hard:  PSNR=-1.000
+Soft:  PSNR=-1.000
+Quad:  PSNR=20.415
+Gauss: PSNR=20.835
+TV:    PSNR=20.451
+Wav:   PSNR=20.614

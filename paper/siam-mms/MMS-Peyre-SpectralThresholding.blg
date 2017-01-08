@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: MMS-Peyre-SpectralThresholding.aux
+The style file: siam.bst
+Database file #1: bibliography.bib
+You've used 58 entries,
+            2030 wiz_defined-function locations,
+            817 strings with 12506 characters,
+and the built_in function-call counts, 20584 in all, are:
+= -- 2015
+> -- 879
+< -- 0
++ -- 351
+- -- 287
+* -- 1592
+:= -- 3151
+add.period$ -- 58
+call.type$ -- 58
+change.case$ -- 315
+chr.to.int$ -- 0
+cite$ -- 58
+duplicate$ -- 970
+empty$ -- 1501
+format.name$ -- 287
+if$ -- 4413
+int.to.chr$ -- 0
+int.to.str$ -- 58
+missing$ -- 60
+newline$ -- 177
+num.names$ -- 117
+pop$ -- 280
+preamble$ -- 1
+purify$ -- 260
+quote$ -- 0
+skip$ -- 829
+stack$ -- 0
+substring$ -- 1431
+swap$ -- 414
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 226
+warning$ -- 0
+while$ -- 221
+width$ -- 60
+write$ -- 515

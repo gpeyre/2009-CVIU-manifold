@@ -1,0 +1,264 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem{tenenbaum-isomap}
+J.~B. Tenenbaum, V.~de~Silva, J.~C. Langford, A {G}lobal {G}eometric
+  {F}ramework for {N}onlinear {D}imensionality {R}eduction, Science 290~(5500)
+  (2000) 2319--2323.
+
+\bibitem{belkin-laplacian-eigenmaps}
+M.~Belkin, P.~Niyogi, Laplacian eigenmaps for dimensionality reduction and data
+  representation, Neural Computation 15~(6) (2003) 1373--1396.
+
+\bibitem{roweis-lle}
+S.~Roweis, L.~Saul, Nonlinear {D}imensionality {R}eduction by {L}ocally
+  {L}inear {E}mbedding, Science 290~(5500) (2000) 2323--2326.
+
+\bibitem{coifman-geometric-diffusion}
+R.~R. {Coifman}, S.~{Lafon}, A.~B. {Lee}, M.~{Maggioni}, B.~{Nadler},
+  F.~{Warner}, S.~W. {Zucker}, {Geometric diffusions as a tool for harmonic
+  analysis and structure definition of data: Diffusion maps}, Proceedings of
+  the National Academy of Science 102 (2005) 7426--7431.
+
+\bibitem{donoho-isomap}
+D.~Donoho, C.~Grimes, Image manifolds isometric to {E}uclidean space, J. Math.
+  Imaging Computer Vision 23~(1).
+
+\bibitem{wakin-multiscale-structure}
+M.~Wakin, D.~Donoho, H.~Choi, R.~Baraniuk, {The Multiscale Structure of
+  Non-Differentiable Image Manifolds}, in: {Optics and Photonics}, San Diego,
+  CA, 2005.
+
+\bibitem{aharon-lips}
+M.~Aharon, R.~Kimmel, Representation analysis and synthesis of lip images using
+  dimensionality reduction, International Journal of Computer Vision 67~(3)
+  (2006) 297--312.
+
+\bibitem{ur-uaman-multiscale-manifold}
+I.~Ur-Raman, I.~Drori, V.~Stodden, P.~Schroeder, Multiscale representations of
+  manifold-valued data, SIAM Multiscale Modeling and Simulation 4~(4) (2005)
+  1201--1232.
+
+\bibitem{wakin-random-proj-manifold}
+R.~G. Baraniuk, M.~B. Wakin, Random projections of smooth manifolds, to appear
+  in Foundations of Computational Mathematics.
+
+\bibitem{lee-non-linear-stats}
+A.~Lee, K.~Pedersen, D.~Mumford, The nonlinear statistics of high-contrast
+  patches in natural images, International Journal of Computer Vision 54~(1-3)
+  (2003) 83--103.
+
+\bibitem{carlsson-local-behavior}
+G.~Carlsson, T.~Ishkhanov, V.~de~Silva, A.~Zomorodian, On the local behavior of
+  spaces of natural images, Int. J. Comput. Vision 76~(1) (2008) 1--12.
+
+\bibitem{baker-parametric}
+S.~Baker, S.~Nayar, H.~Murase, Parametric feature detection, International
+  Journal of Computer Vision 27~(1) (1998) 27--50.
+
+\bibitem{huggins-local-pca}
+P.~S. Huggins, S.~W. Zucker, Representing edge models via local principal
+  component analysis, Proc. of {ECCV}'02, Springer {LNCS} 2350 (2002)
+  384–--398.
+
+\bibitem{mallat-book}
+S.~Mallat, A Wavelet Tour of Signal Processing, Academic Press, San Diego,
+  1998.
+
+\bibitem{rudin-tv}
+L.~I. Rudin, S.~Osher, E.~Fatemi, Nonlinear total variation based noise removal
+  algorithms, Phys. D 60~(1-4) (1992) 259--268.
+
+\bibitem{donoho-wedglets}
+D.~Donoho, Wedgelets: Nearly-minimax estimation of edges, Ann. Statist 27
+  (1999) 353--382.
+
+\bibitem{candes-tight-frame}
+E.~Cand\`es, D.~Donoho, New tight frames of curvelets and optimal
+  representations of objects with piecewise {$\text{C}^2$} singularities, Comm.
+  Pure Appl. Math. 57~(2) (2004) 219--266.
+
+\bibitem{bandelets-siam}
+E.~{Le~Pennec}, S.~Mallat, Bandelet {I}mage {A}pproximation and {C}ompression,
+  SIAM Multiscale Modeling and Simulation 4~(3) (2005) 992--1039.
+
+\bibitem{bandelets-peyre}
+S.~Mallat, G.~Peyr\'e, Orthogonal bandlet bases for geometric images
+  approximation, Communications on Pure and Applied Mathematics 61~(9) (2008)
+  1173--1212.
+
+\bibitem{ben-shahar-perceptual}
+O.~Ben-Shahar, S.~Zucker, The perceptual organization of texture flow: {A}
+  contextual inference approach, IEEE Trans. Pattern Anal. Mach. Intell 25~(4)
+  (2003) 401--417.
+
+\bibitem{landy-2nd-order}
+M.~S. Landy, I.~Oruc, {Properties of 2nd-order spatial frequency channels},
+  Vision Research 42 (2002) 2311--2329.
+
+\bibitem{demanet-waveatoms}
+L.~Demanet, L.~Ying, {Wave atoms and sparsity of oscillatory patterns}, Applied
+  and Computational Harmonic Analysis 3~(23) (2007) 368--387.
+
+\bibitem{mallat-grouplets}
+S.~Mallat, Geometrical grouplets, Submitted.
+
+\bibitem{meyer-oscillating}
+Y.~Meyer, Oscillating Patterns in Image Processing and Nonlinear Evolution
+  Equations, American Mathematical Society, Boston, MA, USA, 2001.
+
+\bibitem{aujol-decomposition}
+J.~F. Aujol, G.~Aubert, L.~Blanc-Feraud, A.~Chambolle, Image decomposition into
+  a bounded variation component and an oscillating component, Journal of
+  Mathematical Imaging and Vision 22~(1) (2005) 71--88.
+
+\bibitem{efros-nonparam-sampling}
+A.~A. Efros, T.~K. Leung, Texture synthesis by non-parametric sampling, in:
+  ICCV '99: Proceedings of the International Conference on Computer
+  Vision-Volume 2, IEEE Computer Society, 1999, p. 1033.
+
+\bibitem{wei-texture-synthesis}
+L.-Y. Wei, M.~Levoy, Fast texture synthesis using tree-structured vector
+  quantization, in: SIGGRAPH '00: Proceedings of the 27th annual conference on
+  Computer graphics and interactive techniques, ACM Press/Addison-Wesley
+  Publishing Co., 2000, pp. 479--488.
+
+\bibitem{wang-appearance}
+J.~Wang, X.~Tong, S.~Lin, M.~Pan, C.~Wang, H.~Bao, B.~Guo, H.-Y. Shum,
+  Appearance manifolds for modeling time-variant appearance of materials, in:
+  Proc. of Siggraph'06, ACM Press, New York, NY, USA, 2006, pp. 754--761.
+
+\bibitem{matusik-texture-design}
+W.~Matusik, M.~Zwicker, F.~Durand, Texture design using a simplicial complex of
+  morphable textures, ACM Trans. Graph. 24~(3) (2005) 787--794.
+
+\bibitem{buades-nl-means}
+A.~Buades, B.~Coll, J.~M. Morel, On image denoising methods, SIAM Multiscale
+  Modeling and Simulation 4~(2) (2005) 490--530.
+
+\bibitem{peyre-manifold-bases}
+G.~Peyr\'e, Manifold spectral bases for the non-local processing of images,
+  SIAM Multiscale Modeling and Simulation 7~(2) (2008) 703--730.
+
+\bibitem{protter-nl-superesol}
+M.~Protter, M.~Elad, H.~Takeda, P.~Milanfar, Generalizing the non-local-means
+  to super-resolution reconstruction, to appear in IEEE Transactions on Image
+  Processing.
+
+\bibitem{peyre-nonlocal-ip}
+G.~Peyr\'e, S.~Bougleux, L.~Cohen, Non-local regularization of inverse
+  problems, in: Proc. of {ECCV} 2008, 2008.
+
+\bibitem{simoncelli-natural}
+E.~P. Simoncelli, B.~A. Olshausen, Natural image statistics and neural
+  representation, 2001 24 (Annual Review of Neuroscience) 1193--1215.
+
+\bibitem{olshausen-simple-cell}
+B.~A. Olshausen, D.~J. Field, Emergence of simple-cell receptive-field
+  properties by learning a sparse code for natural images, Nature 381~(6583)
+  (1996) 607--609.
+
+\bibitem{engan-mod}
+K.~Engan, S.~O. Aase, J.~H. Husoy, Method of optimal directions for frame
+  design, in: Proc. ICASSP '99, IEEE Computer Society, Washington, DC, USA,
+  1999, pp. 2443--2446.
+
+\bibitem{delgado-dictionary-learning}
+K.~Kreutz-Delgado, J.~F. Murray, B.~D. Rao, K.~Engan, T.-W. Lee, T.~Sejnowski,
+  Dictionary learning algorithms for sparse representation, Neural Comput.
+  15~(2) (2003) 349--396.
+
+\bibitem{lewicki-learning-overcomplete}
+M.~S. Lewicki, T.~J. Sejnowski, Learning overcomplete representations, Neural
+  Comput. 12~(2) (2000) 337--365.
+
+\bibitem{aharon-ksvd}
+M.~Aharon, M.~Elad, A.~Bruckstein, The {K-SVD}: An algorithm for designing of
+  overcomplete dictionaries for sparse representation, IEEE Trans. On Signal
+  Processing 54~(11) (2006) 4311--4322.
+
+\bibitem{elad-aharon-denoise}
+M.~Elad, M.~Aharon, Image denoising via sparse and redundant representations
+  over learned dictionaries, IEEE Trans. on Image Processing 15~(12) (2006)
+  3736--3745.
+
+\bibitem{bryt-facial-ksvd}
+O.~Bryt, M.~Elad, Compression of facial images using the {K}-{SVD} algorithm,
+  Journal of Visual Communication and Image Representation 19~(4) (2008)
+  270--282.
+
+\bibitem{mairal-color}
+J.~Mairal, M.~Elad, G.~Sapiro, Sparse representation for color image
+  restoration, IEEE Trans. on Image Processing 17~(1) (2008) 53--69.
+
+\bibitem{peyre-learning-dico}
+G.~Peyr\'e, J.~Fadili, J.~Starck, Learning dictionaries for geometry and
+  texture separation, in: Proc. of SPIE Wavelet XII, Vol. 6701, International
+  Society for Optical Engineering, 2007, pp. 6701--1T.
+
+\bibitem{peyre-sparse-textures}
+G.~Peyr\'e, Sparse modeling of textures, to appear in Journal of Mathematical
+  Imaging and Vision.
+
+\bibitem{delprat-asymptotic}
+N.~Delprat, B.~Escudi\'e, P.~Guillemain, R.~Kronland-Martinet, P.~Tchamitchian,
+  B.~Torr\'esani, Asymptotic wavelet and gabor analysis: extraction of
+  instantaneous frequencies, IEEE Trans. Inf. Th. 38 (1992) 644--664.
+
+\bibitem{donoho-shrinkage}
+D.~Donoho, I.~Johnstone, Ideal spatial adaptation via wavelet shrinkage,
+  Biometrika 81 (1994) 425--455.
+
+\bibitem{daubechies-iterated}
+I.~Daubechies, M.~Defrise, C.~D. Mol, An iterative thresholding algorithm for
+  linear inverse problems with a sparsity constraint, Comm. Pure Appl. Math 57
+  (2004) 1413--1541.
+
+\bibitem{starck-inpainting}
+M.~Elad, J.-L. Starck, D.~Donoho, P.~Querre, Simultaneous cartoon and texture
+  image inpainting using morphological component analysis ({MCA}), Journal on
+  Applied and Computational Harmonic Analysis 19 (2005) 340--358.
+
+\bibitem{fadili-inpainting-cj}
+M.~Fadili, J.-L. Starck, F.~Murtagh, Inpainting and zooming using sparse
+  representations, The Computer Journal (to appear).
+
+\bibitem{tseng-proximal}
+P.~Tseng, Convergence of a block coordinate descent method for
+  nondifferentiable minimization, Journal of Optimization Theory and
+  Applications 109~(3) (2001) 475--494.
+
+\bibitem{masnou-level-lines}
+S.~Masnou, Disocclusion: a variational approach using level lines, IEEE Trans.
+  Image Processing 11~(2) (2002) 68--76.
+
+\bibitem{ballester-filling}
+C.~Ballester, M.~Bertalmio, V.~Caselles, G.~Sapiro, J.~Verdera, Filling-in by
+  joint interpolation of vector fields and gray levels, IEEE Trans. Image
+  Processing 10~(8) (2001) 1200--1211.
+
+\bibitem{bertalmio-inpainting}
+M.~Bertalm\`{\i}o, G.~Sapiro, V.~Caselles, C.~Ballester, Image inpainting, in:
+  Siggraph 2000, 2000, pp. 417--424.
+
+\bibitem{tschumperle-inpainting}
+D.~Tschumperl{\'e}, R.~Deriche, Vector-valued image regularization with {PDE}s:
+  {A}common framework for different applications, IEEE Trans. Pattern Anal.
+  Mach. Intell 27~(4) (2005) 506--517.
+
+\bibitem{candes-near-optimal}
+E.~Cand\`{e}s, T.~Tao, Near-optimal signal recovery from random projections:
+  Universal encoding strategies?, IEEE Transactions on Information Theory
+  52~(12) (2006) 5406--5425.
+
+\bibitem{donoho-cs}
+D.~Donoho, Compressed sensing, IEEE Transactions on Information Theory 52~(4)
+  (2006) 1289--1306.
+
+\bibitem{candes-cs-review}
+E.~Cand\`{e}s, Compressive sampling, Proceedings of the International Congress
+  of Mathematicians, Madrid, Spain~(3) (2006) 1433--1452.
+
+\end{thebibliography}

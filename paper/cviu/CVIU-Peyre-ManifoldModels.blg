@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: CVIU-Peyre-ManifoldModels.aux
+The style file: elsart-num.bst
+Database file #1: bibliography.bib
+Warning--empty pages in wakin-multiscale-structure
+Warning--empty pages in peyre-nonlocal-ip
+Warning--there's a number but no volume in candes-cs-review
+You've used 57 entries,
+            2336 wiz_defined-function locations,
+            898 strings with 13012 characters,
+and the built_in function-call counts, 13186 in all, are:
+= -- 1105
+> -- 516
+< -- 7
++ -- 210
+- -- 153
+* -- 1218
+:= -- 1894
+add.period$ -- 57
+call.type$ -- 57
+change.case$ -- 55
+chr.to.int$ -- 0
+cite$ -- 60
+duplicate$ -- 521
+empty$ -- 1415
+format.name$ -- 200
+if$ -- 2888
+int.to.chr$ -- 0
+int.to.str$ -- 57
+missing$ -- 59
+newline$ -- 177
+num.names$ -- 57
+pop$ -- 188
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 274
+stack$ -- 0
+substring$ -- 1239
+swap$ -- 100
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 149
+width$ -- 59
+write$ -- 460
+(There were 3 warnings)

@@ -1,0 +1,279 @@
+\begin{thebibliography}{10}
+
+\bibitem{aharon-lips}
+{\sc M.~Aharon and R.~Kimmel}, {\em Representation analysis and synthesis of
+  lip images using dimensionality reduction}, Accepted to International Journal
+  of Computer Vision, 67 (2006).
+
+\bibitem{templates-book}
+{\sc Z.~Bai, J.~Demmel, J.~Dongarra, A.~Ruhe, and H.~{van der Vorst}}, eds.,
+  {\em Templates for the solution of algebraic eigenvalue problems}, SIAM,
+  Philadelphia, PA, 2000.
+
+\bibitem{baker-parametric}
+{\sc S.~Baker, S.K. Nayar, and H.~Murase}, {\em Parametric feature detection},
+  International Journal of Computer Vision, 27 (1998), pp.~27--50.
+
+\bibitem{barash-bilateral-pde}
+{\sc D.~Barash}, {\em A fundamental relationship between bilateral filtering,
+  adaptive smoothing, and the nonlinear diffusion equation}, IEEE Trans.
+  Pattern Analysis and Machine Intelligence, 24 (2002), pp.~844--847.
+
+\bibitem{belkin-laplacian-eigenmaps}
+{\sc M.~Belkin and P.~Niyogi}, {\em Laplacian eigenmaps for dimensionality
+  reduction and data representation}, Neural Computation, 15 (2003),
+  pp.~1373--1396.
+
+\bibitem{belkin-manifold-regularization}
+{\sc M.~Belkin, P.~Niyogi, and V.~Sindhwani}, {\em Manifold regularization: A
+  geometric framework for learning from labeled and unlabeled examples}, J.
+  Mach. Learn. Res., 7 (2006), pp.~2399--2434.
+
+\bibitem{brox-iterated-nl-means}
+{\sc T.~Brox and D.~Cremers}, {\em Iterated nonlocal means for texture
+  restoration}, in Proc. International Conference on Scale Space and
+  Variational Methods in Computer Vision, F.~Sgallari, A.~Murli, and
+  N.~Paragios, eds., vol.~4485 of LNCS, Ischia, Italy, May 2007, Springer,
+  pp.~13--24.
+
+\bibitem{buades-nl-means}
+{\sc A.~Buades, B.~Coll, and J.~M. Morel}, {\em On image denoising methods},
+  SIAM Multiscale Modeling and Simulation, 4 (2005), pp.~490--530.
+
+\bibitem{buades-pde}
+\leavevmode\vrule height 2pt depth -1.6pt width 23pt, {\em Neighborhood filters
+  and {PDE}'s}, Numerische Mathematik, 105 (2006), pp.~1--34.
+
+\bibitem{candes-tight-frame}
+{\sc E.~Cand\`es and D.~Donoho}, {\em New tight frames of curvelets and optimal
+  representations of objects with piecewise {$\text{C}^2$} singularities},
+  Comm. Pure Appl. Math., 57 (2004), pp.~219--266.
+
+\bibitem{carlsson-topological}
+{\sc G.~Carlsson and V.~de~Silva}, {\em Topological approximation by small
+  simplicial complexes}, Preprint,  (2006).
+
+\bibitem{carlsson-local-behavior}
+{\sc G.~Carlsson, T.~Ishkhanov, V.~de~Silva, and A.~Zomorodian}, {\em On the
+  local behavior of spaces of natural images}, to appear in Int. Journal of
+  Comp. Vision,  (2007).
+
+\bibitem{chambolle-algo-tv}
+{\sc A.~Chambolle}, {\em An algorithm for total variation minimization and
+  applications}, Journal of Mathematical Imaging and Vision, 20 (2004),
+  pp.~89--97.
+
+\bibitem{chambole-variational-wavelets}
+{\sc A.~Chambolle, R.A. Devore, N.Y. Lee, and B.J. Lucier}, {\em Nonlinear
+  wavelet image-processing: Variational-problems, compression, and noise
+  removal through wavelet shrinkage}, IEEE Tr. on Image Proc., 7 (1998),
+  pp.~319--335.
+
+\bibitem{chung-spectral-graph}
+{\sc F.~R.~K. Chung}, {\em Spectral graph theory}, Regional Conference Series
+  in Mathematics, American Mathematical Society, 92 (1997), pp.~1--212.
+
+\bibitem{coifman-geometric-diffusion}
+{\sc R.~R. {Coifman}, S.~{Lafon}, A.~B. {Lee}, M.~{Maggioni}, B.~{Nadler},
+  F.~{Warner}, and S.~W. {Zucker}}, {\em {Geometric diffusions as a tool for
+  harmonic analysis and structure definition of data: Diffusion maps}},
+  Proceedings of the National Academy of Science, 102 (2005), pp.~7426--7431.
+
+\bibitem{coifman-wavelet-packets}
+{\sc R.~R. Coifman and M.~V. Wickerhauser}, {\em Entropy-based algorithms for
+  best basis selection}, IEEE Transactions on Information Theory, 38 (1992),
+  pp.~713--718.
+
+\bibitem{comaniciu-mean-shift}
+{\sc D.~Comaniciu and P.~Meer}, {\em Mean shift: {A} robust approach toward
+  feature space analysis}, IEEE Trans. Pattern Analysis and Machine
+  Intelligence, 24 (2002), pp.~603--619.
+
+\bibitem{dabov-collaborative-filtering}
+{\sc K.~Dabov, A.~Foi, V.~Katkovnik, and K.~Egiazarian}, {\em Image denoising
+  by sparse 3d transform-domain collaborative filtering}, IEEE Transaction on
+  Image Processing, 16 (2007).
+
+\bibitem{demanet-waveatoms}
+{\sc L.~Demanet and L.~Ying}, {\em {Wave atoms and sparsity of oscillatory
+  patterns}}, to appear in Applied and Computational Harmonic Analysis,
+  (2007).
+
+\bibitem{desbrun-implicit-fairing}
+{\sc M.~Desbrun, M.~Meyer, P.~Schr\"{o}der, and A.~H. Barr}, {\em Implicit
+  fairing of irregular meshes using diffusion and curvature flow}, in Proc. of
+  SIGGRAPH '99, New York, NY, USA, 1999, ACM Press/Addison-Wesley Publishing
+  Co., pp.~317--324.
+
+\bibitem{donoho-wedglets}
+{\sc D.~Donoho}, {\em Wedgelets: Nearly-minimax estimation of edges}, Ann.
+  Statist, 27 (1999), pp.~353--382.
+
+\bibitem{donoho-shrinkage}
+{\sc D.~Donoho and I.~Johnstone}, {\em Ideal spatial adaptation via wavelet
+  shrinkage}, Biometrika, 81 (1994), pp.~425--455.
+
+\bibitem{donoho-isomap}
+{\sc D.~L. Donoho and C.~Grimes}, {\em Image manifolds which are isometric to
+  euclidean space}, Journal of Mathematical Imaging and Vision, 23 (2005),
+  pp.~5--24.
+
+\bibitem{bandelets-denoising}
+{\sc C.~Dossal, E.~Le Pennec, and S.~Mallat}, {\em Denoising with bandelets},
+  Preprint,  (2007).
+
+\bibitem{efros-nonparam-sampling}
+{\sc A.~A. Efros and T.~K. Leung}, {\em Texture synthesis by non-parametric
+  sampling}, in ICCV '99: Proceedings of the International Conference on
+  Computer Vision-Volume 2, IEEE Computer Society, 1999, p.~1033.
+
+\bibitem{elad-bilateral}
+{\sc M.~Elad}, {\em On the origin of the bilateral filter and ways to improve
+  it}, IEEE Trans. Image Processing, 11 (2002), pp.~1141--1151.
+
+\bibitem{elmoataz-nonlocal}
+{\sc A.~Elmoataz, O.~Lezoray, and S.~Bougleux}, {\em Nonlocal discrete
+  regularization on weighted graphs: a framework for image and manifold
+  processing}, Preprint,  (2007).
+
+\bibitem{gilboa-nonlocal-functionals}
+{\sc G.~Gilboa, J.~Darbon, S.~Osher, and T.F. Chan}, {\em Nonlocal convex
+  functionals for image regularization}, UCLA CAM Report 06-57,  (2006).
+
+\bibitem{gilboa-nonlocal-segmentation}
+{\sc G.~Gilboa and S.~Osher}, {\em Nonlocal linear image regularization and
+  supervised segmentation}, SIAM Multiscale Modeling and Simulation, 6 (2007),
+  pp.~595--630.
+
+\bibitem{hein-graph-to-manifold}
+{\sc M.~Hein, J-Y. Audibert, and U.~von Luxburg}, {\em From graphs to manifolds
+  -- weak and strong pointwise consistency of graph {L}aplacians}, in Learning
+  Theory: 18th Annual Conference on Learning Theory, COLT 2005, Bertinoro,
+  Italy, June 27-30, 2005, Proceedings, 2005, pp.~470--485.
+
+\bibitem{huggins-local-pca}
+{\sc P.~S. Huggins and S.~W. Zucker}, {\em Representing edge models via local
+  principal component analysis}, Proc. of {ECCV}'02, Springer {LNCS} 2350,
+  (2002), pp.~384–--398.
+
+\bibitem{kindermann-nonlocal-functionals}
+{\sc S.~Kindermann, S.~Osher, and P.~W. Jones}, {\em Deblurring and denoising
+  of images by nonlocal functionals}, SIAM Multiscale Modeling and Simulation,
+  4 (2005), pp.~1091--1115.
+
+\bibitem{krim-denoising}
+{\sc H.~Krim, D.~Tucker, S.~Mallat, and D.~Donoho}, {\em On denoising and best
+  signal representation}, IEEE Tr. on Information Theory, 45 (1999),
+  pp.~319--335.
+
+\bibitem{bandelets-siam}
+{\sc E.~{Le~Pennec} and S.~Mallat}, {\em Bandelet {I}mage {A}pproximation and
+  {C}ompression}, SIAM Multiscale Modeling and Simulation, 4 (2005),
+  pp.~992--1039.
+
+\bibitem{lee-non-linear-stats}
+{\sc A.B. Lee, K.S. Pedersen, and D.~Mumford}, {\em The nonlinear statistics of
+  high-contrast patches in natural images}, International Journal of Computer
+  Vision, 54 (2003), pp.~83--103.
+
+\bibitem{mallat-book}
+{\sc S.~Mallat}, {\em A Wavelet Tour of Signal Processing}, Academic Press, San
+  Diego, 1998.
+
+\bibitem{mallat-grouplets}
+{\sc S.~Mallat}, {\em Geometrical grouplets}, to appear in Applied and
+  Computational Harmonic Analysis,  (2008).
+
+\bibitem{bandelets-peyre}
+{\sc S.~Mallat and G.~Peyr\'e}, {\em Orthogonal bandelets for geometric image
+  approximation}, Preprint,  (2006).
+
+\bibitem{matusik-texture-design}
+{\sc W.~Matusik, M.~Zwicker, and F.~Durand}, {\em Texture design using a
+  simplicial complex of morphable textures}, ACM Trans. Graph., 24 (2005),
+  pp.~787--794.
+
+\bibitem{perona-anisotropic}
+{\sc P.~Perona and J.~Malik}, {\em Scale-space and edge detection using
+  anisotropic diffusion}, IEEE Transactions on Pattern Analysis and Machine
+  Intelligence, 12 (1990), pp.~629--639.
+
+\bibitem{peyre-manifold-models}
+{\sc G.~Peyr\'e}, {\em Manifold models for signals and images}, preprint,
+  (2007).
+
+\bibitem{peyre-manifold}
+\leavevmode\vrule height 2pt depth -1.6pt width 23pt, {\em Texture synthesis
+  and modification with a patch-valued wavelet transform}, Proc. SSVM 2007,
+  (2007).
+
+\bibitem{polthier-computational}
+{\sc K.~Polthier}, {\em Computational aspects of discrete minimal surfaces},
+  Proc. of the Clay Summer School on Global Theory of Minimal Surfaces,
+  (2002).
+
+\bibitem{rudin-tv}
+{\sc L.~I. Rudin, S.~Osher, and E.~Fatemi}, {\em Nonlinear total variation
+  based noise removal algorithms}, Phys. D, 60 (1992), pp.~259--268.
+
+\bibitem{singer-graph-manifold}
+{\sc A.~Singer}, {\em From graph to manifold laplacian: the convergence rate},
+  Applied and Computational Harmonic Analysis, 21 (2006), pp.~135--144.
+
+\bibitem{smith-susan}
+{\sc S.~M. Smith and J.~M. Brady}, {\em {SUSAN} - a new approach to low level
+  image processing}, International Journal of Computer Vision, 23 (1997),
+  pp.~45--78.
+
+\bibitem{sochen-diffusion-confusion}
+{\sc N.~A. Sochen, R.~Kimmel, and A.~M. Bruckstein}, {\em Diffusions and
+  confusions in signal and image processing}, Journal of Mathematical Imaging
+  and Vision, 14 (2001), pp.~195--209.
+
+\bibitem{spira-short-time-beltrami}
+{\sc A.~Spira, R.~Kimmel, and N.~Sochen}, {\em A short time beltrami kernel for
+  smoothing images and manifolds}, IEEE Trans. Image Processing, 16 (2007),
+  pp.~1628--1636.
+
+\bibitem{szlam-regularization}
+{\sc A.~Szlam, M.~Maggioni, and R.~R. Coifman}, {\em A general framework for
+  adaptive regularization based on diffusion processes on graphs}, to appear in
+  Journ. Mach. Learn. Res.,  (2007).
+
+\bibitem{tomasi-bilateral}
+{\sc C.~Tomasi and R.~Manduchi}, {\em Bilateral filtering for gray and color
+  images}, in ICCV '98: Proceedings of the Sixth International Conference on
+  Computer Vision, 1998, p.~839.
+
+\bibitem{tschumperle-inpainting}
+{\sc D.~Tschumperl{\'e} and R.~Deriche}, {\em Vector-valued image
+  regularization with {PDE}s: {A}common framework for different applications},
+  IEEE Trans. Pattern Anal. Mach. Intell, 27 (2005), pp.~506--517.
+
+\bibitem{wakin-multiscale-structure}
+{\sc M.~Wakin, D.~Donoho, H.~Choi, and R.~Baraniuk}, {\em {The Multiscale
+  Structure of Non-Differentiable Image Manifolds}}, in {Optics and Photonics},
+  San Diego, CA, July 2005.
+
+\bibitem{wang-appearance}
+{\sc J.~Wang, X.~Tong, S.~Lin, M.~Pan, C.~Wang, H.~Bao, B.~Guo, and H-Y. Shum},
+  {\em Appearance manifolds for modeling time-variant appearance of materials},
+  ACM Trans. Graph.,  (2006).
+
+\bibitem{weickert-coherence}
+{\sc J.~Weickert}, {\em Coherence-enhancing diffusion filtering}, Int. J.
+  Comput. Vision, 31 (1999), pp.~111--127.
+
+\bibitem{xu-discrete-laplacian}
+{\sc G.~Xu}, {\em Discrete laplace-beltrami operators and their convergence},
+  Comput. Aided Geom. Des., 21 (2004), pp.~767--784.
+
+\bibitem{yaroslavsky-book}
+{\sc L.~P. Yaroslavsky}, {\em Digital Picture Processing --- an Introduction},
+  Springer, Berlin, 1985.
+
+\bibitem{zhou-regularization-discrete}
+{\sc D.~Zhou and B.~Scholkopf}, {\em Regularization on discrete spaces}, in
+  German Pattern Recognition Symposium, 2005, p.~361.
+
+\end{thebibliography}

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox
+END
+progressbar.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox/progressbar.m
+END
+getoptions.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox/getoptions.m
+END
+clamp.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox/clamp.m
+END
+pca.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox/pca.m
+END
+crop.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox/crop.m
+END
+symmetric_extension.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox/symmetric_extension.m
+END
+perform_convolution.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox/perform_convolution.m
+END
+compute_distance_matrix.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox/compute_distance_matrix.m
+END
+compute_gaussian_filter.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox/compute_gaussian_filter.m
+END
+rescale.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox/rescale.m
+END
+perform_blurring.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox/perform_blurring.m
+END
+compute_patch_library.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox/compute_patch_library.m
+END
+load_image.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox/load_image.m
+END
+imageplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox/imageplot.m
+END
+perform_lowdim_embedding.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/toolbox/perform_lowdim_embedding.m
+END

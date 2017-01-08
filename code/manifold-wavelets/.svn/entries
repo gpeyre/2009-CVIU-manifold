@@ -1,0 +1,22 @@
+8
+
+dir
+12
+https://matlabcompanion.svn.sourceforge.net/svnroot/matlabcompanion/projects/manifold-models/manifold-wavelets
+https://matlabcompanion.svn.sourceforge.net/svnroot/matlabcompanion
+
+
+
+2008-08-16T17:35:14.488809Z
+3
+nikopol0
+
+
+svn:special svn:externals svn:needs-lock
+
+manifold_learned
+dir
+
+manifold_synthetic
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/manifold-wavelets/manifold_learned/nntools
+END
+nn_prepare.dll
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/manifold-wavelets/manifold_learned/nntools/nn_prepare.dll
+END
+nn_prepare.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/manifold-wavelets/manifold_learned/nntools/nn_prepare.m
+END
+nn_search.dll
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/manifold-wavelets/manifold_learned/nntools/nn_search.dll
+END
+nn_search.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/manifold-wavelets/manifold_learned/nntools/nn_search.m
+END
+range_search.dll
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/manifold-wavelets/manifold_learned/nntools/range_search.dll
+END
+range_search.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/matlabcompanion/!svn/ver/3/projects/manifold-models/manifold-wavelets/manifold_learned/nntools/range_search.m
+END
